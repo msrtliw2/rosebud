@@ -1,0 +1,23 @@
+name: Update Rosebud data
+on:
+  schedule:
+    - cron: "0 * * * *"   # hourly
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm ci
+      - run: node scripts/fetch-news.mjs
+      - run: node scripts/analyse-news.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "rosebud-bot"
+          git config user.email "bot@example"
+          git add public/data/*.json
+          git commit -m "chore(data): hourly refresh" || echo "no changes"
+          git push
