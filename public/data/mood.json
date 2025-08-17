@@ -1,0 +1,369 @@
+{
+  "updatedAt": "2025-08-17T09:40:08.398Z",
+  "areas": [
+    {
+      "place": "Somerset",
+      "sampleCount": 4,
+      "issues": [
+        "national network",
+        "maternity unit",
+        "minehead rail",
+        "rail link",
+        "link national",
+        "network remains",
+        "remains track",
+        "track reconnect",
+        "reconnect west",
+        "west somerset"
+      ],
+      "keywords": [
+        "have",
+        "out",
+        "urgent",
+        "taunton"
+      ],
+      "examples": [
+        {
+          "title": "Minehead rail link to national network remains on track",
+          "link": "https://www.somersetlive.co.uk/news/somerset-news/minehead-rail-link-national-network-10419991",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-17T05:00:00.000Z"
+        },
+        {
+          "title": "Londoners pricing out locals as Somerset town suffers housing crisis",
+          "link": "https://www.somersetlive.co.uk/whats-on/whats-on-news/londoners-pricing-out-locals-somerset-10413842",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-17T04:11:00.000Z"
+        },
+        {
+          "title": "MPs demand urgent action as Taunton maternity unit faces 2033 delay",
+          "link": "https://www.somersetlive.co.uk/news/somerset-news/mps-demand-urgent-action-taunton-10421534",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-16T05:00:00.000Z"
+        },
+        {
+          "title": "Fears raised over proposed closure of Somerset hospital beds",
+          "link": "https://www.somersetlive.co.uk/news/somerset-news/fears-raised-over-proposed-closure-10420323",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-16T04:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Westminster",
+      "sampleCount": 3,
+      "issues": [
+        "dealers selling",
+        "selling hard",
+        "hard drugs",
+        "drugs during",
+        "during mass",
+        "mass pews",
+        "pews grounds",
+        "grounds westminster",
+        "westminster cathedral",
+        "cathedral worshippers"
+      ],
+      "keywords": [
+        "costs",
+        "that"
+      ],
+      "examples": [
+        {
+          "title": "Dealers 'selling hard drugs during Mass' in pews and grounds of Westminster Cathedral",
+          "link": "https://www.standard.co.uk/news/london/drugs-dealing-westminster-cathedral-mass-b1243238.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-16T14:48:25.000Z"
+        },
+        {
+          "title": "Re-housing falcons and a £10mn front door: Westminster’s spiralling refurbishment costs ",
+          "link": "https://www.ft.com/content/9e4b16ec-071f-40c8-9171-d2cf86737ce4",
+          "source": "UK",
+          "pubDate": "2025-08-15T04:00:00.000Z"
+        },
+        {
+          "title": "Westminster forgets that inflation matters",
+          "link": "https://www.ft.com/content/d21cb836-c8a6-4bd8-98c4-cfb5ededfd33",
+          "source": "UK",
+          "pubDate": "2025-08-14T16:22:10.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Sheffield",
+      "sampleCount": 2,
+      "issues": [
+        "sheffield parking",
+        "sheffield retro",
+        "retro 70s",
+        "70s photos",
+        "photos remembering",
+        "remembering era",
+        "era buses",
+        "buses legendary",
+        "legendary nightclubs",
+        "nightclubs yorkshire"
+      ],
+      "keywords": [
+        "drivers",
+        "warned",
+        "scam",
+        "stickers",
+        "money"
+      ],
+      "examples": [
+        {
+          "title": "Sheffield retro 70s: 21 photos remembering era of 2p buses, legendary nightclubs and 'Yorkshire Disneyland'",
+          "link": "https://www.thestar.co.uk/retro/sheffield-retro-70s-photos-2p-buses-legendary-nightclubs-and-yorkshire-disneyland-5274708",
+          "source": "The Star",
+          "pubDate": "2025-08-17T06:30:01.000Z"
+        },
+        {
+          "title": "Sheffield parking: Drivers warned of scam stickers 'stealing money' at city council machines",
+          "link": "https://www.thestar.co.uk/news/crime/sheffield-parking-drivers-warned-of-scam-stickers-stealing-money-at-city-council-machines-5273670",
+          "source": "The Star",
+          "pubDate": "2025-08-17T05:00:21.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Bristol",
+      "sampleCount": 2,
+      "issues": [
+        "people living",
+        "living tents",
+        "tents bristol",
+        "bristol parks",
+        "parks are",
+        "are being",
+        "being closely",
+        "closely monitored",
+        "monitored takes",
+        "takes sensitive"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "People living in tents in Bristol parks are being 'closely monitored'",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/people-living-tents-bristol-parks-10427372",
+          "source": "Bristol Post - frontpage",
+          "pubDate": "2025-08-17T04:00:00.000Z"
+        },
+        {
+          "title": "The five-year scandal of Bristol's Imperial Apartments",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/five-year-scandal-bristols-imperial-10422027",
+          "source": "Bristol Post - frontpage",
+          "pubDate": "2025-08-17T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Bradford",
+      "sampleCount": 2,
+      "issues": [
+        "sale green",
+        "green belt",
+        "belt land",
+        "land huge",
+        "huge development",
+        "bradford midwife",
+        "lifetime achievement",
+        "achievement award",
+        "urged halt",
+        "halt planned"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Council urged to halt planned sale of green belt land amid plans for huge development",
+          "link": "https://www.thetelegraphandargus.co.uk/news/25392359.council-urged-stop-planned-sale-green-belt-land/?ref=rss",
+          "source": "Bradford Telegraph and Argus | News",
+          "pubDate": "2025-08-17T02:14:00.000Z"
+        },
+        {
+          "title": "'What a journey it was': Bradford midwife wins lifetime achievement award",
+          "link": "https://www.thetelegraphandargus.co.uk/news/25394421.viv-dolby-bihr-receives-nihr-lifetime-achievement-award/?ref=rss",
+          "source": "Bradford Telegraph and Argus | News",
+          "pubDate": "2025-08-16T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Glasgow",
+      "sampleCount": 2,
+      "issues": [
+        "bid convert",
+        "mum set",
+        "decision made",
+        "made bid",
+        "convert glasgow",
+        "glasgow offices",
+        "offices flats",
+        "flats housing",
+        "housing association",
+        "association bid"
+      ],
+      "keywords": [
+        "legal",
+        "daughter",
+        "school"
+      ],
+      "examples": [
+        {
+          "title": "Decision made on bid to convert Glasgow offices into flats",
+          "link": "https://www.heraldscotland.com/news/25395176.decision-made-plans-convert-glasgow-offices-flats/?ref=rss",
+          "source": "The Herald | News",
+          "pubDate": "2025-08-16T10:04:30.000Z"
+        },
+        {
+          "title": "Mum set for legal fight with council after daughter left without a school",
+          "link": "https://www.heraldscotland.com/news/25395041.parkhead-mum-take-glasgow-city-council-tribunal/?ref=rss",
+          "source": "The Herald | News",
+          "pubDate": "2025-08-16T08:22:28.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Birmingham",
+      "sampleCount": 2,
+      "issues": [
+        "shabana mahmood",
+        "justice secretary",
+        "mahmood justice",
+        "secretary rising",
+        "rising star",
+        "star labour",
+        "labour party",
+        "party described",
+        "described pragmatic",
+        "pragmatic politician"
+      ],
+      "keywords": [
+        "crime",
+        "birmingham",
+        "flags",
+        "being"
+      ],
+      "examples": [
+        {
+          "title": "Shabana Mahmood: justice secretary and rising star of the Labour party",
+          "link": "https://www.theguardian.com/politics/2025/aug/16/shabana-mahmood-justice-secretary-and-rising-star-of-the-labour-party",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-16T08:00:56.000Z"
+        },
+        {
+          "title": "England flags hung by locals taken down",
+          "link": "https://www.bbc.com/news/articles/clyj4y8vq7vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "pubDate": "2025-08-15T15:53:41.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Wigan",
+      "sampleCount": 2,
+      "issues": [
+        "schools wigan",
+        "results day",
+        "wigan sunday",
+        "nine top-performing",
+        "top-performing secondary",
+        "secondary schools",
+        "wigan named",
+        "named ahead",
+        "ahead results",
+        "day gcse"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "The nine top-performing secondary schools in Wigan named - ahead of results day",
+          "link": "https://www.wigantoday.net/education/the-nine-top-performing-secondary-schools-in-wigan-named-ahead-of-results-day-5274319",
+          "source": "Wigan Today",
+          "pubDate": "2025-08-15T14:11:37.000Z"
+        },
+        {
+          "title": "Wigan Sunday school pictures from the 1930s to '80s",
+          "link": "https://www.wigantoday.net/education/wigan-sunday-school-pictures-from-the-1930s-to-80s-5274115",
+          "source": "Wigan Today",
+          "pubDate": "2025-08-15T13:21:56.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Belfast",
+      "sampleCount": 1,
+      "issues": [
+        "texas chsq",
+        "chsq gate",
+        "gate times",
+        "times support",
+        "support act",
+        "act age",
+        "age restrictions",
+        "restrictions more",
+        "more belfast",
+        "belfast gig"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Texas CHSq gate times, support act, age restrictions and more for Belfast gig",
+          "link": "https://www.belfastlive.co.uk/whats-on/music-nightlife-news/texas-chsq-gate-times-support-32284579",
+          "source": "BelfastLive - Home",
+          "pubDate": "2025-08-17T08:15:08.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Manchester",
+      "sampleCount": 1,
+      "issues": [
+        "turbulent greater",
+        "greater manchester",
+        "manchester that",
+        "that wants",
+        "wants transform",
+        "transform five",
+        "five towns",
+        "towns once",
+        "once there",
+        "there are"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "The turbulent Greater Manchester council that wants to transform FIVE towns at once",
+          "link": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/turbulent-greater-manchester-council-wants-32280955",
+          "source": "MEN - MEN Frontpage",
+          "pubDate": "2025-08-17T07:46:17.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Edinburgh",
+      "sampleCount": 1,
+      "issues": [
+        "scotrail rolls",
+        "rolls busiest",
+        "busiest week",
+        "week oasis",
+        "oasis fans",
+        "fans flock",
+        "flock edinburgh",
+        "edinburgh rail",
+        "rail operator",
+        "operator said"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "ScotRail rolls with it in busiest 2025 week as Oasis fans flock to Edinburgh",
+          "link": "https://www.standard.co.uk/culture/music/scotrail-oasis-edinburgh-noel-gallagher-murrayfield-stadium-b1243266.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-16T15:18:27.000Z"
+        }
+      ]
+    }
+  ]
+}
