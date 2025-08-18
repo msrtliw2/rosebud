@@ -40,3 +40,131 @@
 .read-the-docs {
   color: #888;
 }
+/* Mobile card view for tables */
+.rb-card {
+  border: 1px solid #1f2937;
+  border-radius: 10px;
+  padding: 8px;
+  background: #0f1624;
+}
+.rb-kv {
+  display: grid;
+  grid-template-columns: 46% 1fr;
+  gap: 6px;
+  padding: 6px 0;
+  border-bottom: 1px dashed #1f2937;
+}
+.rb-kv:last-child { border-bottom: 0; }
+.rb-k {
+  color: #9ca3af;
+  font-size: 12px;
+  line-height: 1.2;
+  word-break: break-word;
+}
+.rb-v {
+  color: #e5e7eb;
+  font-size: 13px;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+.rb-btn {
+  transition: transform 0.04s ease-in-out;
+}
+.rb-btn:active {
+  transform: translateY(1px);
+}
+
+/* Desktop table improvements */
+.rb-table-wrap {
+  overflow-x: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin: 10px;
+}
+
+.rb-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;      /* keep columns sane */
+  font-size: 14px;
+}
+
+.rb-sticky th {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: #111827;      /* match panel */
+}
+
+.rb-table thead th {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #1f2937;
+  max-width: 240px;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.rb-table td {
+  padding: 10px;
+  border-bottom: 1px solid #1f2937;
+  vertical-align: top;
+  max-width: 260px;
+  white-space: normal;
+  word-break: break-word;
+}
+
+/* Compact desktop tables for Polling averages / Seat projections / Scotland */
+.rb-table.rb-compact th,
+.rb-table.rb-compact td {
+  font-size: 12px;        /* smaller text */
+  padding: 6px 8px;       /* tighter rows */
+  white-space: nowrap;    /* keep to one line */
+  overflow: hidden;       /* clip overflow */
+  text-overflow: ellipsis;
+  max-width: 160px;       /* keep columns narrow */
+}
+
+.rb-table.rb-compact thead th {
+  font-size: 12px;
+}
+
+/* Slightly narrower on smaller desktops */
+@media (max-width: 1200px) {
+  .rb-table.rb-compact th,
+  .rb-table.rb-compact td {
+    max-width: 140px;
+  }
+}
+
+/* Make cards kick in sooner for narrow tablets too */
+@media (max-width: 480px) {
+  .rb-kv { grid-template-columns: 50% 1fr; }
+  .rb-v {font-size: 12.5px; }
+}
+
+/* ===== Mobile table fixes: stop vertical letters, enable smooth scroll ===== */
+@media (max-width: 900px) {
+  /* Let the table size itself more naturally on phones */
+  .rb-table {
+    table-layout: auto !important;
+  }
+
+  /* Stop headers/cells breaking every character */
+  .rb-table thead th,
+  .rb-table td {
+    white-space: nowrap !important;     /* keep on one line */
+    word-break: keep-all !important;    /* don't break inside words */
+    overflow: hidden !important;        /* clip overflow */
+    text-overflow: ellipsis !important; /* show … at the end */
+    max-width: 140px;                   /* keep columns reasonably narrow */
+  }
+
+  /* Make horizontal scroll smooth on iOS/Android */
+  .rb-table-wrap {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+  }
+}
