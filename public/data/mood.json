@@ -1,214 +1,117 @@
 {
-  "updatedAt": "2025-08-17T09:40:08.398Z",
+  "updatedAt": "2025-08-18T09:01:39.729Z",
   "areas": [
     {
-      "place": "Somerset",
-      "sampleCount": 4,
+      "place": "London",
+      "sampleCount": 9,
       "issues": [
-        "national network",
-        "maternity unit",
-        "minehead rail",
-        "rail link",
-        "link national",
-        "network remains",
-        "remains track",
-        "track reconnect",
-        "reconnect west",
-        "west somerset"
+        "london mayor",
+        "sadiq khan",
+        "first year",
+        "tough first",
+        "continue reading",
+        "mayor sir",
+        "sir sadiq",
+        "travel news",
+        "labour needs",
+        "needs pick"
       ],
       "keywords": [
-        "have",
-        "out",
-        "urgent",
-        "taunton"
+        "has",
+        "would",
+        "had",
+        "said",
+        "not"
       ],
       "examples": [
         {
-          "title": "Minehead rail link to national network remains on track",
-          "link": "https://www.somersetlive.co.uk/news/somerset-news/minehead-rail-link-national-network-10419991",
-          "source": "Somerset Live - frontpage",
-          "pubDate": "2025-08-17T05:00:00.000Z"
-        },
-        {
-          "title": "Londoners pricing out locals as Somerset town suffers housing crisis",
-          "link": "https://www.somersetlive.co.uk/whats-on/whats-on-news/londoners-pricing-out-locals-somerset-10413842",
-          "source": "Somerset Live - frontpage",
-          "pubDate": "2025-08-17T04:11:00.000Z"
-        },
-        {
-          "title": "MPs demand urgent action as Taunton maternity unit faces 2033 delay",
-          "link": "https://www.somersetlive.co.uk/news/somerset-news/mps-demand-urgent-action-taunton-10421534",
-          "source": "Somerset Live - frontpage",
-          "pubDate": "2025-08-16T05:00:00.000Z"
-        },
-        {
-          "title": "Fears raised over proposed closure of Somerset hospital beds",
-          "link": "https://www.somersetlive.co.uk/news/somerset-news/fears-raised-over-proposed-closure-10420323",
-          "source": "Somerset Live - frontpage",
-          "pubDate": "2025-08-16T04:24:00.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Westminster",
-      "sampleCount": 3,
-      "issues": [
-        "dealers selling",
-        "selling hard",
-        "hard drugs",
-        "drugs during",
-        "during mass",
-        "mass pews",
-        "pews grounds",
-        "grounds westminster",
-        "westminster cathedral",
-        "cathedral worshippers"
-      ],
-      "keywords": [
-        "costs",
-        "that"
-      ],
-      "examples": [
-        {
-          "title": "Dealers 'selling hard drugs during Mass' in pews and grounds of Westminster Cathedral",
-          "link": "https://www.standard.co.uk/news/london/drugs-dealing-westminster-cathedral-mass-b1243238.html",
+          "title": "London travel news LIVE: Westminster Bridge closed due to police incident ",
+          "link": "https://www.standard.co.uk/news/london/travel-updates-westminster-bridge-closed-incident-tfl-trains-b1241597.html",
           "source": "The Standard",
-          "pubDate": "2025-08-16T14:48:25.000Z"
+          "pubDate": "2025-08-18T08:55:52.000Z"
         },
         {
-          "title": "Re-housing falcons and a £10mn front door: Westminster’s spiralling refurbishment costs ",
-          "link": "https://www.ft.com/content/9e4b16ec-071f-40c8-9171-d2cf86737ce4",
-          "source": "UK",
-          "pubDate": "2025-08-15T04:00:00.000Z"
+          "title": "Labour needs to ‘pick things up’ after a ‘tough’ first year, says Sadiq Khan – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2025/aug/18/uk-politics-live-news-updates-labour-sadiq-khan-conservatives",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-18T08:48:18.000Z"
         },
         {
-          "title": "Westminster forgets that inflation matters",
-          "link": "https://www.ft.com/content/d21cb836-c8a6-4bd8-98c4-cfb5ededfd33",
-          "source": "UK",
-          "pubDate": "2025-08-14T16:22:10.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Sheffield",
-      "sampleCount": 2,
-      "issues": [
-        "sheffield parking",
-        "sheffield retro",
-        "retro 70s",
-        "70s photos",
-        "photos remembering",
-        "remembering era",
-        "era buses",
-        "buses legendary",
-        "legendary nightclubs",
-        "nightclubs yorkshire"
-      ],
-      "keywords": [
-        "drivers",
-        "warned",
-        "scam",
-        "stickers",
-        "money"
-      ],
-      "examples": [
-        {
-          "title": "Sheffield retro 70s: 21 photos remembering era of 2p buses, legendary nightclubs and 'Yorkshire Disneyland'",
-          "link": "https://www.thestar.co.uk/retro/sheffield-retro-70s-photos-2p-buses-legendary-nightclubs-and-yorkshire-disneyland-5274708",
-          "source": "The Star",
-          "pubDate": "2025-08-17T06:30:01.000Z"
+          "title": "Labour 2-0 down but has time to turn things around, says Sadiq Khan",
+          "link": "https://www.theguardian.com/politics/2025/aug/18/labour-sadiq-khan",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-18T08:12:09.000Z"
         },
         {
-          "title": "Sheffield parking: Drivers warned of scam stickers 'stealing money' at city council machines",
-          "link": "https://www.thestar.co.uk/news/crime/sheffield-parking-drivers-warned-of-scam-stickers-stealing-money-at-city-council-machines-5273670",
-          "source": "The Star",
-          "pubDate": "2025-08-17T05:00:21.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Bristol",
-      "sampleCount": 2,
-      "issues": [
-        "people living",
-        "living tents",
-        "tents bristol",
-        "bristol parks",
-        "parks are",
-        "are being",
-        "being closely",
-        "closely monitored",
-        "monitored takes",
-        "takes sensitive"
-      ],
-      "keywords": [],
-      "examples": [
-        {
-          "title": "People living in tents in Bristol parks are being 'closely monitored'",
-          "link": "https://www.bristolpost.co.uk/news/bristol-news/people-living-tents-bristol-parks-10427372",
-          "source": "Bristol Post - frontpage",
-          "pubDate": "2025-08-17T04:00:00.000Z"
+          "title": "Landsec sells Ministry of Justice office block to Arora Group for £245m",
+          "link": "https://www.standard.co.uk/business/business-news/ministry-of-justice-queen-london-mansions-heathrow-b1243380.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-18T07:17:58.000Z"
         },
         {
-          "title": "The five-year scandal of Bristol's Imperial Apartments",
-          "link": "https://www.bristolpost.co.uk/news/bristol-news/five-year-scandal-bristols-imperial-10422027",
-          "source": "Bristol Post - frontpage",
-          "pubDate": "2025-08-17T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Bradford",
-      "sampleCount": 2,
-      "issues": [
-        "sale green",
-        "green belt",
-        "belt land",
-        "land huge",
-        "huge development",
-        "bradford midwife",
-        "lifetime achievement",
-        "achievement award",
-        "urged halt",
-        "halt planned"
-      ],
-      "keywords": [],
-      "examples": [
-        {
-          "title": "Council urged to halt planned sale of green belt land amid plans for huge development",
-          "link": "https://www.thetelegraphandargus.co.uk/news/25392359.council-urged-stop-planned-sale-green-belt-land/?ref=rss",
-          "source": "Bradford Telegraph and Argus | News",
-          "pubDate": "2025-08-17T02:14:00.000Z"
+          "title": "Labour needs to ‘pick things up’ after ‘tough’ first year in power, Khan says",
+          "link": "https://www.standard.co.uk/news/politics/labour-sadiq-khan-prime-minister-keir-starmer-london-b1243351.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T19:35:27.000Z"
         },
         {
-          "title": "'What a journey it was': Bradford midwife wins lifetime achievement award",
-          "link": "https://www.thetelegraphandargus.co.uk/news/25394421.viv-dolby-bihr-receives-nihr-lifetime-achievement-award/?ref=rss",
-          "source": "Bradford Telegraph and Argus | News",
-          "pubDate": "2025-08-16T04:00:00.000Z"
+          "title": "London Mayor Sir Sadiq Khan says Donald Trump is ‘not a force for good’ ",
+          "link": "https://www.independent.co.uk/news/uk/politics/sadiq-khan-donald-trump-london-b2809222.html",
+          "source": "The Independent UK Politics",
+          "pubDate": "2025-08-17T19:29:46.000Z"
+        },
+        {
+          "title": "Donald Trump is ‘not a force for good’ London Mayor says",
+          "link": "https://www.standard.co.uk/news/politics/sadiq-khan-donald-trump-president-mayor-london-b1243347.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T18:32:35.000Z"
+        },
+        {
+          "title": "London council refunding nearly £500K to thousands of drivers wrongly fined for driving in bus lanes",
+          "link": "https://www.standard.co.uk/news/transport/motorists-wrongly-fined-for-driving-in-bus-lanes-set-for-ps500k-refund-b1243309.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T11:41:33.000Z"
         }
       ]
     },
     {
       "place": "Glasgow",
-      "sampleCount": 2,
+      "sampleCount": 5,
       "issues": [
+        "glasgow city",
+        "automatic voter",
+        "voter registration",
         "bid convert",
         "mum set",
-        "decision made",
-        "made bid",
-        "convert glasgow",
-        "glasgow offices",
-        "offices flats",
-        "flats housing",
-        "housing association",
-        "association bid"
+        "home office",
+        "office has",
+        "has step",
+        "step glasgow",
+        "glasgow faces"
       ],
       "keywords": [
-        "legal",
-        "daughter",
-        "school"
+        "66m",
+        "housing"
       ],
       "examples": [
+        {
+          "title": "'The Home Office has to step in:' Glasgow faces £66m homeless refugee housing bill",
+          "link": "https://www.heraldscotland.com/politics/westminster/25396485.glasgow-faces-66-million-refugee-housing-bill-next-year/?ref=rss",
+          "source": "The Herald | News",
+          "pubDate": "2025-08-18T04:00:00.000Z"
+        },
+        {
+          "title": "Glasgow moves step closer to bringing in automatic voter registration",
+          "link": "https://www.heraldscotland.com/news/25396531.glasgow-plans-first-automatic-voter-registration-pilot/?ref=rss",
+          "source": "The Herald | News",
+          "pubDate": "2025-08-18T04:00:00.000Z"
+        },
+        {
+          "title": "Glasgow crime: Shop assistant seriously injured as attacker 'sprays substance' during robbery",
+          "link": "https://www.scotsman.com/news/crime/shop-assistant-seriously-injured-as-attacker-sprays-substance-during-robbery-5275550",
+          "source": "The Scotsman",
+          "pubDate": "2025-08-17T16:25:46.000Z"
+        },
         {
           "title": "Decision made on bid to convert Glasgow offices into flats",
           "link": "https://www.heraldscotland.com/news/25395176.decision-made-plans-convert-glasgow-offices-flats/?ref=rss",
@@ -224,33 +127,404 @@
       ]
     },
     {
-      "place": "Birmingham",
-      "sampleCount": 2,
+      "place": "Westminster",
+      "sampleCount": 4,
       "issues": [
-        "shabana mahmood",
-        "justice secretary",
-        "mahmood justice",
-        "secretary rising",
-        "rising star",
-        "star labour",
-        "labour party",
-        "party described",
-        "described pragmatic",
-        "pragmatic politician"
+        "travel news",
+        "defence secretary",
+        "chair cambridge",
+        "cambridge aerospace",
+        "defence matters",
+        "tough first",
+        "first year",
+        "london travel",
+        "news live",
+        "live westminster"
       ],
       "keywords": [
-        "crime",
-        "birmingham",
-        "flags",
-        "being"
+        "shapps",
+        "criticised",
+        "join"
       ],
       "examples": [
         {
-          "title": "Shabana Mahmood: justice secretary and rising star of the Labour party",
-          "link": "https://www.theguardian.com/politics/2025/aug/16/shabana-mahmood-justice-secretary-and-rising-star-of-the-labour-party",
-          "source": "Politics | The Guardian",
-          "pubDate": "2025-08-16T08:00:56.000Z"
+          "title": "London travel news LIVE: Westminster Bridge closed due to police incident ",
+          "link": "https://www.standard.co.uk/news/london/travel-updates-westminster-bridge-closed-incident-tfl-trains-b1241597.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-18T08:55:52.000Z"
         },
+        {
+          "title": "Ex-defence secretary Shapps criticised as he is cleared to join missiles start-up",
+          "link": "https://www.theguardian.com/politics/2025/aug/18/watchdog-condemned-for-clearing-grant-shapps-to-join-defence-startup",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-18T07:09:55.000Z"
+        },
+        {
+          "title": "Labour needs to ‘pick things up’ after ‘tough’ first year in power, Khan says",
+          "link": "https://www.standard.co.uk/news/politics/labour-sadiq-khan-prime-minister-keir-starmer-london-b1243351.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T19:35:27.000Z"
+        },
+        {
+          "title": "Two 'normal' looking terraced houses in Westminster hide extraordinary secret",
+          "link": "https://www.mylondon.news/news/property/two-normal-looking-terraced-houses-32292494",
+          "source": "My London - Home",
+          "pubDate": "2025-08-17T14:48:12.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Edinburgh",
+      "sampleCount": 4,
+      "issues": [
+        "sadiq khan",
+        "london mayor",
+        "edinburgh fringe",
+        "first year",
+        "has said",
+        "continue reading",
+        "2-0 down",
+        "supporters would",
+        "would delusional",
+        "delusional they"
+      ],
+      "keywords": [
+        "labour"
+      ],
+      "examples": [
+        {
+          "title": "Labour needs to ‘pick things up’ after a ‘tough’ first year, says Sadiq Khan – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2025/aug/18/uk-politics-live-news-updates-labour-sadiq-khan-conservatives",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-18T08:48:18.000Z"
+        },
+        {
+          "title": "Labour 2-0 down but has time to turn things around, says Sadiq Khan",
+          "link": "https://www.theguardian.com/politics/2025/aug/18/labour-sadiq-khan",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-18T08:12:09.000Z"
+        },
+        {
+          "title": "Mayor Khan says Sturgeon ‘knew her stuff’ but says SNP have ‘hoarded power’",
+          "link": "https://www.standard.co.uk/news/politics/nicola-sturgeon-sadiq-khan-snp-mayor-scotland-b1243348.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T18:47:41.000Z"
+        },
+        {
+          "title": "Donald Trump is ‘not a force for good’ London Mayor says",
+          "link": "https://www.standard.co.uk/news/politics/sadiq-khan-donald-trump-president-mayor-london-b1243347.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T18:32:35.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Manchester",
+      "sampleCount": 3,
+      "issues": [
+        "greater manchester",
+        "true crime",
+        "crime documentary",
+        "rachel reeves",
+        "bulldozing best",
+        "best building",
+        "building among",
+        "among greater",
+        "manchester key",
+        "key planning"
+      ],
+      "keywords": [
+        "significant",
+        "across",
+        "case",
+        "bolton"
+      ],
+      "examples": [
+        {
+          "title": "Bulldozing UK's 'best new building' among Greater Manchester's key planning updates",
+          "link": "https://www.manchestereveningnews.co.uk/news/bulldozing-uks-best-new-building-32281663",
+          "source": "MEN - MEN Frontpage",
+          "pubDate": "2025-08-18T07:25:51.000Z"
+        },
+        {
+          "title": "True crime documentary highlights the case of a  jailed Bolton keyworker",
+          "link": "https://www.theboltonnews.co.uk/news/25396580.operation-dark-phone-murder-text-highlights-local-cases/?ref=rss",
+          "source": "The Bolton News | News",
+          "pubDate": "2025-08-17T16:41:01.000Z"
+        },
+        {
+          "title": "Want more productivity, Rachel Reeves? It’s time to embrace Mancunian swagger | Richard Partington",
+          "link": "https://www.theguardian.com/business/2025/aug/17/productivity-rachel-reeves-london-manchester",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-17T10:06:09.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Bolton",
+      "sampleCount": 2,
+      "issues": [
+        "true crime",
+        "crime documentary",
+        "our priority",
+        "priority remain",
+        "remain patients",
+        "patients staff",
+        "staff hospital",
+        "hospital needs",
+        "needs make",
+        "make 37m"
+      ],
+      "keywords": [
+        "bolton",
+        "case"
+      ],
+      "examples": [
+        {
+          "title": "'Our priority remain patients and staff' - hospital needs to make £37M of savings",
+          "link": "https://www.theboltonnews.co.uk/news/25363147.bolton-nhs-foundation-trust-needs-find-37m-savings/?ref=rss",
+          "source": "The Bolton News | News",
+          "pubDate": "2025-08-18T04:18:00.000Z"
+        },
+        {
+          "title": "True crime documentary highlights the case of a  jailed Bolton keyworker",
+          "link": "https://www.theboltonnews.co.uk/news/25396580.operation-dark-phone-murder-text-highlights-local-cases/?ref=rss",
+          "source": "The Bolton News | News",
+          "pubDate": "2025-08-17T16:41:01.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Somerset",
+      "sampleCount": 2,
+      "issues": [
+        "national network",
+        "minehead rail",
+        "rail link",
+        "link national",
+        "network remains",
+        "remains track",
+        "track reconnect",
+        "reconnect west",
+        "west somerset",
+        "somerset railway"
+      ],
+      "keywords": [
+        "out"
+      ],
+      "examples": [
+        {
+          "title": "Minehead rail link to national network remains on track",
+          "link": "https://www.somersetlive.co.uk/news/somerset-news/minehead-rail-link-national-network-10419991",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-17T05:00:00.000Z"
+        },
+        {
+          "title": "Londoners pricing out locals as Somerset town suffers housing crisis",
+          "link": "https://www.somersetlive.co.uk/whats-on/whats-on-news/londoners-pricing-out-locals-somerset-10413842",
+          "source": "Somerset Live - frontpage",
+          "pubDate": "2025-08-17T04:11:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Bristol",
+      "sampleCount": 1,
+      "issues": [
+        "derelict east",
+        "east bristol",
+        "bristol buildings",
+        "buildings that",
+        "that have",
+        "have been",
+        "been empty",
+        "empty years",
+        "years could",
+        "could become"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Derelict East Bristol buildings that have been empty for 25 years could become homes",
+          "link": "https://www.bristolpost.co.uk/news/bristol-news/derelict-east-bristol-buildings-been-10419033",
+          "source": "Bristol Post - frontpage",
+          "pubDate": "2025-08-18T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Croydon",
+      "sampleCount": 1,
+      "issues": [
+        "croydon enforcers",
+        "enforcers patrolling",
+        "patrolling streets",
+        "streets zero-tolerance",
+        "zero-tolerance handing",
+        "handing out",
+        "out spot",
+        "spot fines",
+        "fines croydon",
+        "croydon mayor"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Croydon enforcers patrolling streets with 'zero-tolerance' handing out on the spot fines",
+          "link": "https://www.mylondon.news/news/south-london-news/croydon-enforcers-patrolling-streets-zero-32292608",
+          "source": "My London - Home",
+          "pubDate": "2025-08-18T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Sheffield",
+      "sampleCount": 1,
+      "issues": [
+        "former norwich",
+        "norwich city",
+        "city attacker",
+        "attacker onel",
+        "onel hernandez",
+        "sheffield wednesday",
+        "hernandez spotted",
+        "spotted sheffield",
+        "wednesday fans",
+        "fans await"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Former Norwich City attacker Onel Hernandez spotted at Sheffield Wednesday as fans await first signing",
+          "link": "https://www.thestar.co.uk/sport/football/sheffield-wednesday/norwich-city-sheffield-wednesday-onel-hernandez-5275517",
+          "source": "The Star",
+          "pubDate": "2025-08-17T15:30:49.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Southwark",
+      "sampleCount": 1,
+      "issues": [
+        "london refunding",
+        "refunding nearly",
+        "nearly 500k",
+        "500k thousands",
+        "thousands drivers",
+        "drivers wrongly",
+        "wrongly fined",
+        "fined driving",
+        "driving bus",
+        "bus lanes"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "London council refunding nearly £500K to thousands of drivers wrongly fined for driving in bus lanes",
+          "link": "https://www.standard.co.uk/news/transport/motorists-wrongly-fined-for-driving-in-bus-lanes-set-for-ps500k-refund-b1243309.html",
+          "source": "The Standard",
+          "pubDate": "2025-08-17T11:41:33.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Aberdeen",
+      "sampleCount": 1,
+      "issues": [
+        "rachel reeves",
+        "want more",
+        "more productivity",
+        "productivity rachel",
+        "reeves time",
+        "time embrace",
+        "embrace mancunian",
+        "mancunian swagger",
+        "swagger richard",
+        "richard partington"
+      ],
+      "keywords": [
+        "has",
+        "this"
+      ],
+      "examples": [
+        {
+          "title": "Want more productivity, Rachel Reeves? It’s time to embrace Mancunian swagger | Richard Partington",
+          "link": "https://www.theguardian.com/business/2025/aug/17/productivity-rachel-reeves-london-manchester",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-17T10:06:09.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Belfast",
+      "sampleCount": 1,
+      "issues": [
+        "rachel reeves",
+        "want more",
+        "more productivity",
+        "productivity rachel",
+        "reeves time",
+        "time embrace",
+        "embrace mancunian",
+        "mancunian swagger",
+        "swagger richard",
+        "richard partington"
+      ],
+      "keywords": [
+        "has",
+        "this"
+      ],
+      "examples": [
+        {
+          "title": "Want more productivity, Rachel Reeves? It’s time to embrace Mancunian swagger | Richard Partington",
+          "link": "https://www.theguardian.com/business/2025/aug/17/productivity-rachel-reeves-london-manchester",
+          "source": "Politics | The Guardian",
+          "pubDate": "2025-08-17T10:06:09.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Bradford",
+      "sampleCount": 1,
+      "issues": [
+        "sale green",
+        "green belt",
+        "belt land",
+        "land huge",
+        "huge development",
+        "urged halt",
+        "halt planned",
+        "planned sale",
+        "development campaigners",
+        "campaigners councillors"
+      ],
+      "keywords": [],
+      "examples": [
+        {
+          "title": "Council urged to halt planned sale of green belt land amid plans for huge development",
+          "link": "https://www.thetelegraphandargus.co.uk/news/25392359.council-urged-stop-planned-sale-green-belt-land/?ref=rss",
+          "source": "Bradford Telegraph and Argus | News",
+          "pubDate": "2025-08-17T02:14:00.000Z"
+        }
+      ]
+    },
+    {
+      "place": "Birmingham",
+      "sampleCount": 1,
+      "issues": [
+        "flags hung",
+        "hung locals",
+        "locals taken",
+        "taken down",
+        "down birmingham",
+        "birmingham city",
+        "city flags",
+        "flags are",
+        "are being",
+        "being removed"
+      ],
+      "keywords": [],
+      "examples": [
         {
           "title": "England flags hung by locals taken down",
           "link": "https://www.bbc.com/news/articles/clyj4y8vq7vo?at_medium=RSS&at_campaign=rss",
@@ -261,107 +535,26 @@
     },
     {
       "place": "Wigan",
-      "sampleCount": 2,
+      "sampleCount": 1,
       "issues": [
-        "schools wigan",
-        "results day",
-        "wigan sunday",
-        "nine top-performing",
-        "top-performing secondary",
-        "secondary schools",
-        "wigan named",
-        "named ahead",
-        "ahead results",
-        "day gcse"
+        "little jigsaw",
+        "day nursery",
+        "nursery pemberton",
+        "jigsaw day",
+        "pemberton class",
+        "class act",
+        "act pictures",
+        "pictures children",
+        "children are",
+        "are pictured"
       ],
       "keywords": [],
       "examples": [
         {
-          "title": "The nine top-performing secondary schools in Wigan named - ahead of results day",
-          "link": "https://www.wigantoday.net/education/the-nine-top-performing-secondary-schools-in-wigan-named-ahead-of-results-day-5274319",
+          "title": "Little Jigsaw's Day Nursery, Pemberton: Class Act pictures",
+          "link": "https://www.wigantoday.net/community/little-jigsaws-day-nursery-pemberton-class-act-pictures-5273103",
           "source": "Wigan Today",
-          "pubDate": "2025-08-15T14:11:37.000Z"
-        },
-        {
-          "title": "Wigan Sunday school pictures from the 1930s to '80s",
-          "link": "https://www.wigantoday.net/education/wigan-sunday-school-pictures-from-the-1930s-to-80s-5274115",
-          "source": "Wigan Today",
-          "pubDate": "2025-08-15T13:21:56.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Belfast",
-      "sampleCount": 1,
-      "issues": [
-        "texas chsq",
-        "chsq gate",
-        "gate times",
-        "times support",
-        "support act",
-        "act age",
-        "age restrictions",
-        "restrictions more",
-        "more belfast",
-        "belfast gig"
-      ],
-      "keywords": [],
-      "examples": [
-        {
-          "title": "Texas CHSq gate times, support act, age restrictions and more for Belfast gig",
-          "link": "https://www.belfastlive.co.uk/whats-on/music-nightlife-news/texas-chsq-gate-times-support-32284579",
-          "source": "BelfastLive - Home",
-          "pubDate": "2025-08-17T08:15:08.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Manchester",
-      "sampleCount": 1,
-      "issues": [
-        "turbulent greater",
-        "greater manchester",
-        "manchester that",
-        "that wants",
-        "wants transform",
-        "transform five",
-        "five towns",
-        "towns once",
-        "once there",
-        "there are"
-      ],
-      "keywords": [],
-      "examples": [
-        {
-          "title": "The turbulent Greater Manchester council that wants to transform FIVE towns at once",
-          "link": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/turbulent-greater-manchester-council-wants-32280955",
-          "source": "MEN - MEN Frontpage",
-          "pubDate": "2025-08-17T07:46:17.000Z"
-        }
-      ]
-    },
-    {
-      "place": "Edinburgh",
-      "sampleCount": 1,
-      "issues": [
-        "scotrail rolls",
-        "rolls busiest",
-        "busiest week",
-        "week oasis",
-        "oasis fans",
-        "fans flock",
-        "flock edinburgh",
-        "edinburgh rail",
-        "rail operator",
-        "operator said"
-      ],
-      "keywords": [],
-      "examples": [
-        {
-          "title": "ScotRail rolls with it in busiest 2025 week as Oasis fans flock to Edinburgh",
-          "link": "https://www.standard.co.uk/culture/music/scotrail-oasis-edinburgh-noel-gallagher-murrayfield-stadium-b1243266.html",
-          "source": "The Standard",
-          "pubDate": "2025-08-16T15:18:27.000Z"
+          "pubDate": "2025-08-15T07:54:34.000Z"
         }
       ]
     }
