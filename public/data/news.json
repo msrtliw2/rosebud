@@ -1,19 +1,565 @@
 {
-  "updatedAt": "2025-08-17T09:50:00.249Z",
+  "updatedAt": "2025-08-18T09:00:58.370Z",
   "items": [
     {
-      "title": "Zack Polanski pulling away in race to be party leader, senior Greens believe",
-      "link": "https://www.theguardian.com/politics/2025/aug/17/zack-polanski-pulling-away-in-race-to-be-party-leader-senior-greens-believe",
-      "pubDate": "2025-08-17T09:01:20.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Exclusive: Growing sense that ‘eco-populist’ could win after mounting what one opponent called a ‘hostile takeover’ Zack Polanski, the insurgent candidate for Green party leader whose “eco-populism” and social media savvy have upended the race, is starting to pull away from his more-established rivals, senior figures believe. There is a growing expectation that the election will be won by the 42-year-old former Liberal Democrat, who appears to have seized the initiative from his opponents. One likened it to a “hostile takeover”. Continue reading..."
+      "title": "London travel news LIVE: Westminster Bridge closed due to police incident ",
+      "link": "https://www.standard.co.uk/news/london/travel-updates-westminster-bridge-closed-incident-tfl-trains-b1241597.html",
+      "pubDate": "2025-08-18T08:55:52.000Z",
+      "source": "The Standard",
+      "summary": "Live updates on London’s latest travel news across Tube, railways and roads"
     },
     {
-      "title": "Train fares set to rise 5.5pc with announcement this week",
-      "link": "https://www.bristolpost.co.uk/news/uk-world-news/train-fares-set-rise-55pc-10432239",
-      "pubDate": "2025-08-17T08:46:54.000Z",
+      "title": "Battle of Orgreave: my reflections on a long wait for justice",
+      "link": "https://www.ft.com/content/b4b1ebb7-d994-434f-8c3d-d13849eb6c9c",
+      "pubDate": "2025-08-18T08:53:50.000Z",
+      "source": "UK",
+      "summary": "There’s hope that UK inquiry into police’s violent clash with miners enables reconciliation — with access to full evidence"
+    },
+    {
+      "title": "EDF handing customers £567 off energy bill with households told to act",
+      "link": "https://www.birminghammail.co.uk/news/cost-of-living/edf-handing-customers-567-energy-32294775",
+      "pubDate": "2025-08-18T08:50:32.000Z",
+      "source": "Birmingham Live - Home",
+      "summary": "Customers who combine the offer with EDF’s Smart Charging bolt-on can save up to £567."
+    },
+    {
+      "title": "Labour needs to ‘pick things up’ after a ‘tough’ first year, says Sadiq Khan – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/aug/18/uk-politics-live-news-updates-labour-sadiq-khan-conservatives",
+      "pubDate": "2025-08-18T08:48:18.000Z",
+      "source": "Politics | The Guardian",
+      "summary": "London mayor says he has ‘confidence we will turn it round’ as he addresses audience at Edinburgh fringe Nicola Davis is the Guardian’s science correspondent Patients in England now have greater access to important tests such as MRI scans and endoscopies in the evenings and weekends, the government has said, after increasing the number of community diagnostic centres (CDCs) offering out of hours services. In an interview with the Guardian, he praised Starmer’s intention to recognise a Palestinian state after an ultimatum to Israel – but defended the home secretary, Yvette Cooper, saying he would also have proscribed the direct action group Palestine Action. The British political veteran said he believed Starmer and his cabinet were “head and shoulders” above opposition politicians and would reap the rewards of a gradual improvement in the economy and public services, which would not come immediately. Continue reading..."
+    },
+    {
+      "title": "Police issues warning for anyone on DWP benefits after '64 reports to officers'",
+      "link": "https://www.birminghammail.co.uk/news/cost-of-living/police-issues-warning-anyone-dwp-32294586",
+      "pubDate": "2025-08-18T08:30:50.000Z",
+      "source": "Birmingham Live - Home",
+      "summary": "Merseyside Police is urging the public to remain vigilant following a significant increase in attempted frauds relating to Winter Fuel Payments."
+    },
+    {
+      "title": "Labour 2-0 down but has time to turn things around, says Sadiq Khan",
+      "link": "https://www.theguardian.com/politics/2025/aug/18/labour-sadiq-khan",
+      "pubDate": "2025-08-18T08:12:09.000Z",
+      "source": "Politics | The Guardian",
+      "summary": "London mayor says party supporters would be ‘delusional’ if they did not recognise difficulties party has had Labour would be 2-0 down were its time in government a football match, one of the party’s most senior figures has said, as he admitted its first year in office has been difficult. But Sadiq Khan stressed Labour still had plenty of time to win round the public. Speaking at the Edinburgh festival fringe, the London mayor said Labour supporters would be “delusional” if they did not recognise the difficulties the party had had since winning power in July 2024. Continue reading..."
+    },
+    {
+      "title": "Petrol and diesel drivers could face forecourt rule change for first time in 15 years",
+      "link": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-diesel-drivers-could-face-32294058",
+      "pubDate": "2025-08-18T07:27:43.000Z",
+      "source": "Birmingham Live - Home",
+      "summary": "Campaigners have said the policy \"benefited the richest and cost the UK £100bn\"."
+    },
+    {
+      "title": "Bulldozing UK's 'best new building' among Greater Manchester's key planning updates",
+      "link": "https://www.manchestereveningnews.co.uk/news/bulldozing-uks-best-new-building-32281663",
+      "pubDate": "2025-08-18T07:25:51.000Z",
+      "source": "MEN - MEN Frontpage",
+      "summary": "These are all the significant developments tabled across the city-region recently"
+    },
+    {
+      "title": "Council speak out as 'vital' cameras damaged in County Durham",
+      "link": "https://www.thenorthernecho.co.uk/news/25396822.durham-county-council-vital-cameras-deliberately-damaged/?ref=rss",
+      "pubDate": "2025-08-18T07:18:10.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "Durham County Council has spoken out after 'vital' cameras were damaged in Bradbury, Toronto and Tow Law."
+    },
+    {
+      "title": "Landsec sells Ministry of Justice office block to Arora Group for £245m",
+      "link": "https://www.standard.co.uk/business/business-news/ministry-of-justice-queen-london-mansions-heathrow-b1243380.html",
+      "pubDate": "2025-08-18T07:17:58.000Z",
+      "source": "The Standard",
+      "summary": "Arora Group will buy Queen Anne’s Mansions amid the ‘recovery’ of central London’s property market."
+    },
+    {
+      "title": "Marine Parade, Saltburn: Plans to tackle 'motorhome mayhem' on Yorkshire coast",
+      "link": "https://www.yorkshirepost.co.uk/news/politics/council/marine-parade-saltburn-plans-to-tackle-motorhome-mayhem-on-yorkshire-coast-5275655",
+      "pubDate": "2025-08-18T07:15:56.000Z",
+      "source": "Yorkshire Post",
+      "summary": "Proposals to tackle motorhome mayhem on Saltburn’s Marine Parade have been newly laid out by Redcar and Cleveland Council."
+    },
+    {
+      "title": "Ex-defence secretary Shapps criticised as he is cleared to join missiles start-up",
+      "link": "https://www.theguardian.com/politics/2025/aug/18/watchdog-condemned-for-clearing-grant-shapps-to-join-defence-startup",
+      "pubDate": "2025-08-18T07:09:55.000Z",
+      "source": "Politics | The Guardian",
+      "summary": "Former defence secretary allowed to take role as chair of Cambridge Aerospace, as long as he avoids defence matters The parliamentary standards body has been criticised for clearing Grant Shapps, a former Conservative defence secretary, to join a defence startup as long as he promises not to work on defence matters. In a ruling that drew scorn from political ethics experts, the Advisory Committee on Business Appointments (Acoba), which monitors and advises on the revolving door between Westminster and the business sector, gave Shapps the green light to become the chair of Cambridge Aerospace. Continue reading..."
+    },
+    {
+      "title": "Empty housing estate left in 'limbo' with no homes occupied on site after seven years",
+      "link": "https://www.thenorthernecho.co.uk/news/25395425.evenwood-gate-housing-estate-left-unfinished-seven-years/?ref=rss",
+      "pubDate": "2025-08-18T07:00:00.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "The development at Evenwood Gate, near West Auckland, began around seven years ago on the site of the former Brown Jug Inn, demolished in 2015."
+    },
+    {
+      "title": "Parish councils describe 'overdevelopment' of village in objection to 860 homes",
+      "link": "https://www.eadt.co.uk/news/25395357.parish-councils-object-860-home-development-kentford/?ref=rss",
+      "pubDate": "2025-08-18T07:00:00.000Z",
+      "source": "East Anglian Daily Times | News",
+      "summary": "Both Kentford Parish Council and Moulton Parish Council have launched objections to plans for 860 homes on the former Animal Health Trust site."
+    },
+    {
+      "title": "Dispute over £450,000 'missing' SEND funds amid anger",
+      "link": "https://www.eadt.co.uk/news/25378873.parents-say-450-000-suffolk-council-send-funding-missing/?ref=rss",
+      "pubDate": "2025-08-18T06:00:00.000Z",
+      "source": "East Anglian Daily Times | News",
+      "summary": "Campaign For Change members, Emma Eveleigh, from Needham Market and Steven Wright, from East Bergholt, have criticised Suffolk County Council."
+    },
+    {
+      "title": "NI politicians sign letter urging PM to 'act now' over Gaza",
+      "link": "https://www.bbc.com/news/articles/cgkre7n1361o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-08-18T05:24:57.000Z",
+      "source": "BBC News",
+      "summary": "In a joint letter, politicians have called on the prime minister to put pressure on Israel to end the war in Gaza."
+    },
+    {
+      "title": "Nottingham tram involved in collision with car caused 'no service' on part of NET network",
+      "link": "https://www.nottinghampost.com/news/nottingham-news/nottingham-tram-crash-live-updates-10432964",
+      "pubDate": "2025-08-18T05:18:15.000Z",
+      "source": "Nottinghamshire Live - frontpage",
+      "summary": "Commuters were told to 'allow extra time' when planning journeys"
+    },
+    {
+      "title": "What is 'zone training'? And why slow workouts could be the secret to weight loss, as well as longevity",
+      "link": "https://www.standard.co.uk/lifestyle/wellness/zone-training-running-one-two-three-slow-workouts-benefits-weight-loss-b1243126.html",
+      "pubDate": "2025-08-18T05:00:30.000Z",
+      "source": "The Standard",
+      "summary": "Understanding ‘zone training’ could revolutionise how you work out. But which is right for you? Giulia Crouch speaks to the pros about the five zones and the myriad different benefits they offer"
+    },
+    {
+      "title": "'Outrageous' inflation-busting rise in train ticket prices predicted by finance firm",
+      "link": "https://www.yorkshirepost.co.uk/news/transport/inflation-busting-rise-in-train-ticket-prices-predicted-by-finance-firm-5275497",
+      "pubDate": "2025-08-18T05:00:19.000Z",
+      "source": "Yorkshire Post",
+      "summary": "A potential 5.5 per cent rise in train fares next year has been described by public transport groups as “outrageous”."
+    },
+    {
+      "title": "County Durham housing site that's remained unfinished for years branded 'ghost town'",
+      "link": "https://www.thenorthernecho.co.uk/news/25395389.evenwood-gate-a688-housing-site-branded-ghost-town/?ref=rss",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "Those living along the A688 at Evenwood Gate, between West Auckland and Staindrop, have been looking at the shell of complete houses for up to three years."
+    },
+    {
+      "title": "Plans to increase parking spaces on Darlington street are withdrawn",
+      "link": "https://www.thenorthernecho.co.uk/news/25392869.darlington-plans-increase-parking-ash-lane-withdrawn/?ref=rss",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "Plans to increase parking spaces at a property on Ash Lane in Darlington have been withdrawn before a decision by Darlington Borough Council was made."
+    },
+    {
+      "title": "Durham PCC to sponsor 2025 County Durham Together Awards- and nominations are open",
+      "link": "https://www.thenorthernecho.co.uk/news/25395342.county-durham-together-awards-2025-nominations-now-open/?ref=rss",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "Durham Police and Crime Commissioner Joy Allen is sponsoring the 2025 County Durham Together Awards- nominations are now open."
+    },
+    {
+      "title": "Council agreed to spend £1.4m on Octagon Theatre revamp before consultation announced",
+      "link": "https://www.somersetlive.co.uk/news/somerset-news/council-agreed-spend-14m-octagon-10430482",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "Somerset Live - frontpage",
+      "summary": "The council is now pursuing a scaled-down redevelopment costing £15m,"
+    },
+    {
+      "title": "Dentistry could feature at City Campus as uni bosses focus on next stage of redevelopment",
+      "link": "https://www.gloucestershirelive.co.uk/news/gloucester-news/dentistry-could-feature-city-campus-10421842",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "Gloucestershire Live - frontpage",
+      "summary": "'We are already in conversations with the NHS around part of one of the top floors in terms of what we could do around dentistry'"
+    },
+    {
+      "title": "Continually absent Reform UK councillor in Cornwall is asked to attend meetings",
+      "link": "https://www.cornwalllive.com/news/cornwall-news/continually-absent-reform-uk-councillor-10427603",
+      "pubDate": "2025-08-18T05:00:00.000Z",
+      "source": "Cornwall Live - frontpage",
+      "summary": "A concerned town council has written to the councillor who lives 45 miles away from the division she represents. The leader of Reform UK in Cornwall - who is also her husband - has accused Newquay councillors of trying to score political points"
+    },
+    {
+      "title": "'What a fool I was to vote Labour' - man blasts York MP",
+      "link": "https://www.yorkpress.co.uk/news/25393429.what-fool-vote-labour---letter-york-press/?ref=rss",
+      "pubDate": "2025-08-18T04:54:00.000Z",
+      "source": "York Press | News",
+      "summary": "What a fool I was to vote Labour - says our letter writer. What is your view?"
+    },
+    {
+      "title": "Mayor's extra funding aim for cutting edge firms",
+      "link": "https://www.coventrytelegraph.net/news/coventry-news/mayors-extra-funding-aim-cutting-32285326",
+      "pubDate": "2025-08-18T04:30:00.000Z",
+      "source": "Coventry Live - Home",
+      "summary": "Backing from government and private investors would boost ground-breaking work"
+    },
+    {
+      "title": "New housing estate planned alongside huge logistics warehouses",
+      "link": "https://www.theboltonnews.co.uk/news/25393955.new-housing-estate-planned-alongside-huge-logistics-warehouses/?ref=rss",
+      "pubDate": "2025-08-18T04:27:00.000Z",
+      "source": "The Bolton News | News",
+      "summary": "A new 60-home estate is set to be built by the A6 next to the Logisitics North employment park."
+    },
+    {
+      "title": "Face of paedophile ex-football coach jailed for 31 years",
+      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/paedophile-former-football-coach-jailed-10432390",
+      "pubDate": "2025-08-18T04:20:00.000Z",
+      "source": "Stoke-on-Trent Live - frontpage",
+      "summary": "Evil William Woods has finally been brought to justice"
+    },
+    {
+      "title": "'Our priority remain patients and staff' - hospital needs to make £37M of savings",
+      "link": "https://www.theboltonnews.co.uk/news/25363147.bolton-nhs-foundation-trust-needs-find-37m-savings/?ref=rss",
+      "pubDate": "2025-08-18T04:18:00.000Z",
+      "source": "The Bolton News | News",
+      "summary": "Bolton NHS Foundation Trust reported a £2.4 million deficit in April, with board members told the figure was £900,000 worse than planned."
+    },
+    {
+      "title": "Over £300m given to English councils to help house Ukrainian refugees unspent",
+      "link": "https://www.theguardian.com/world/2025/aug/18/over-300m-given-to-english-councils-to-help-house-ukrainian-refugees-unspent",
+      "pubDate": "2025-08-18T04:00:50.000Z",
+      "source": "Politics | The Guardian",
+      "summary": "Figure is about a third of budget from central government while thousands of families face prospect of homelessness More than £300m given to English councils to help Ukrainian refugees into accommodation has not been spent, while thousands of them face homelessness. Freedom of information requests to 150 councils in England, shared with the Guardian, identified that £327m – about a third of the £1bn budget – was still sitting in council bank accounts more than three years after Russia invaded Ukraine. Continue reading..."
+    },
+    {
+      "title": "NHS calls on students to consider nursing career after A-Level results",
+      "link": "https://www.theboltonnews.co.uk/news/25392736.nhs-north-west-calls-students-consider-nursing/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "The Bolton News | News",
+      "summary": "NHS North West is urging students who are unsure about their next steps to explore careers in nursing"
+    },
+    {
+      "title": "Cost of new Thames Water reservoir has risen by billions",
+      "link": "https://www.oxfordmail.co.uk/news/25393811.new-thames-water-reservoir-cost-much-7-5bn/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Oxford Mail | News",
+      "summary": "A new reservoir near Abingdon could cost more than three times the original budget, pushing the eventual cost to be covered by bill payers to as much as £7.5bn"
+    },
+    {
+      "title": "Town hall bosses react to cancellation of beer festival",
+      "link": "https://www.oxfordmail.co.uk/news/25394360.council-bosses-react-cancellation-beer-festival/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Oxford Mail | News",
+      "summary": "Oxford council bosses have called for a meeting with organisers of Oxford Beer Festival after they cancelled this year's event without warning."
+    },
+    {
+      "title": "Scales of Justice: The latest cases from Oxford Magistrates' Court",
+      "link": "https://www.oxfordmail.co.uk/news/25392000.scales-justice-results-oxford-magistrates-court/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Oxford Mail | News",
+      "summary": "The latest court cases in Oxford Magistrates' Court:"
+    },
+    {
+      "title": "Derelict East Bristol buildings that have been empty for 25 years could become homes",
+      "link": "https://www.bristolpost.co.uk/news/bristol-news/derelict-east-bristol-buildings-been-10419033",
+      "pubDate": "2025-08-18T04:00:00.000Z",
       "source": "Bristol Post - frontpage",
-      "summary": "Public transport groups have called the oncoming price hike 'outrageous'"
+      "summary": "This week's list of notable planning applications made to the city council"
+    },
+    {
+      "title": "Council praised for approach to vulnerable children",
+      "link": "https://www.bristolpost.co.uk/news/bristol-news/council-praised-approach-vulnerable-children-10425933",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Bristol Post - frontpage",
+      "summary": "Four key areas were assessed in a new report"
+    },
+    {
+      "title": "Closure of beloved library in Worle 'is going to be awful'",
+      "link": "https://www.somersetlive.co.uk/news/local-news/closure-beloved-library-worle-is-10429658",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Somerset Live - frontpage",
+      "summary": "It is one of three which is 'highly likely' to close in council cuts"
+    },
+    {
+      "title": "Cornwall planning: Proposals for 348 new homes across Cornwall",
+      "link": "https://www.cornwalllive.com/news/cornwall-news/cornwall-planning-proposals-348-new-10429852",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "Cornwall Live - frontpage",
+      "summary": "A number of housing developments have been submitted over the past week"
+    },
+    {
+      "title": "Croydon enforcers patrolling streets with 'zero-tolerance' handing out on the spot fines",
+      "link": "https://www.mylondon.news/news/south-london-news/croydon-enforcers-patrolling-streets-zero-32292608",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "My London - Home",
+      "summary": "Croydon mayor Jason Perry said he's \"had enough of people ruining our streets\""
+    },
+    {
+      "title": "'The Home Office has to step in:' Glasgow faces £66m homeless refugee housing bill",
+      "link": "https://www.heraldscotland.com/politics/westminster/25396485.glasgow-faces-66-million-refugee-housing-bill-next-year/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "The Herald | News",
+      "summary": "Glasgow City Council's leader warns UK asylum policy is fuelling a homelessness crisis, with costs projected to hit £66m by 2026/27."
+    },
+    {
+      "title": "Glasgow moves step closer to bringing in automatic voter registration",
+      "link": "https://www.heraldscotland.com/news/25396531.glasgow-plans-first-automatic-voter-registration-pilot/?ref=rss",
+      "pubDate": "2025-08-18T04:00:00.000Z",
+      "source": "The Herald | News",
+      "summary": "Glasgow may be the first Scottish council to pilot automatic voter registration, aiming to boost turnout using local data and reduce barriers for voters."
+    },
+    {
+      "title": "200 more homes could be approved in town ‘suffering from house building overload’",
+      "link": "https://www.somersetlive.co.uk/news/local-news/200-more-homes-could-approved-10430304",
+      "pubDate": "2025-08-18T03:53:00.000Z",
+      "source": "Somerset Live - frontpage",
+      "summary": "The council’s planning officers are recommending that the plans be approved"
+    },
+    {
+      "title": "List of Derbyshire job vacancies including Vaillant Live, Derby City Council and Aramak roles",
+      "link": "https://www.derbytelegraph.co.uk/news/derby-news/list-derbyshire-job-vacancies-including-10430363",
+      "pubDate": "2025-08-18T03:00:00.000Z",
+      "source": "Derbyshire Live - frontpage",
+      "summary": "A number of positions are being advertised across the local area this week"
+    },
+    {
+      "title": "Council-owned land allocated for housing to be sold at auction",
+      "link": "https://www.thetelegraphandargus.co.uk/news/25393740.bradford-council-owned-go-hammer-auction/?ref=rss",
+      "pubDate": "2025-08-18T02:00:00.000Z",
+      "source": "Bradford Telegraph and Argus | News",
+      "summary": "Council-owned land that has been allocated as a possible housing development will go under the hammer with a £150,000 guide price."
+    },
+    {
+      "title": "Retrospective plan for Conservation Area banner is refused",
+      "link": "https://www.thetelegraphandargus.co.uk/news/25392604.retrospective-plan-conservation-area-banner-refused/?ref=rss",
+      "pubDate": "2025-08-18T02:00:00.000Z",
+      "source": "Bradford Telegraph and Argus | News",
+      "summary": "A LARGE banner on a Conservation Area building has been described as “stark and discordant” by planning officers."
+    },
+    {
+      "title": "More than 200 pubs closed in six months amid tax hikes, figures show",
+      "link": "https://www.standard.co.uk/business/business-news/england-wales-treasury-pubs-government-b1243361.html",
+      "pubDate": "2025-08-17T23:01:00.000Z",
+      "source": "The Standard",
+      "summary": "Industry bosses said it is ‘heartbreaking’ and highlighted the need for supportive tax measures."
+    },
+    {
+      "title": "“I’m so pleased to see this awful saga come to an end\": Morecambe fans and MP respond to sale claim",
+      "link": "https://www.lep.co.uk/sport/football/im-so-pleased-to-see-this-awful-saga-come-to-an-end-morecambe-fans-and-mp-respond-to-sale-claim-5275602",
+      "pubDate": "2025-08-17T20:07:13.000Z",
+      "source": "Lancashire Evening Post",
+      "summary": "The Shrimps Trust fans’ group and Lizzi Collinge MP have both outlined their joy with Morecambe’s ownership saga seemingly at an end."
+    },
+    {
+      "title": "Labour needs to ‘pick things up’ after ‘tough’ first year in power, Khan says",
+      "link": "https://www.standard.co.uk/news/politics/labour-sadiq-khan-prime-minister-keir-starmer-london-b1243351.html",
+      "pubDate": "2025-08-17T19:35:27.000Z",
+      "source": "The Standard",
+      "summary": "London Mayor Sir Sadiq Khan said his party had had a ‘tough first year’ in charge at Westminster after winning the 2024 general election."
+    },
+    {
+      "title": "London Mayor Sir Sadiq Khan says Donald Trump is ‘not a force for good’ ",
+      "link": "https://www.independent.co.uk/news/uk/politics/sadiq-khan-donald-trump-london-b2809222.html",
+      "pubDate": "2025-08-17T19:29:46.000Z",
+      "source": "The Independent UK Politics",
+      "summary": "Trump previously called the London mayor ‘a nasty person’"
+    },
+    {
+      "title": "Mayor Khan says Sturgeon ‘knew her stuff’ but says SNP have ‘hoarded power’",
+      "link": "https://www.standard.co.uk/news/politics/nicola-sturgeon-sadiq-khan-snp-mayor-scotland-b1243348.html",
+      "pubDate": "2025-08-17T18:47:41.000Z",
+      "source": "The Standard",
+      "summary": "Sir Sadiq Khan spoke about his dealings with Nicola Sturgeon as he appeared at the Edinburgh Fringe Festival on Sunday."
+    },
+    {
+      "title": "Donald Trump is ‘not a force for good’ London Mayor says",
+      "link": "https://www.standard.co.uk/news/politics/sadiq-khan-donald-trump-president-mayor-london-b1243347.html",
+      "pubDate": "2025-08-17T18:32:35.000Z",
+      "source": "The Standard",
+      "summary": "Sir Sadiq Khan spoke out on his views on the US President as he appeared at the Edinburgh Fringe Festival on Sunday."
+    },
+    {
+      "title": "Conservative candidate for Norfolk and Suffolk Mayor is named",
+      "link": "https://www.eadt.co.uk/news/25396581.passmore-conservative-choice-norfolk-suffolk-mayor/?ref=rss",
+      "pubDate": "2025-08-17T17:02:00.000Z",
+      "source": "East Anglian Daily Times | News",
+      "summary": "Tim Passmore has been announced as the conservative candidate for the joint Norfolk and Suffolk Mayoral role."
+    },
+    {
+      "title": "True crime documentary highlights the case of a  jailed Bolton keyworker",
+      "link": "https://www.theboltonnews.co.uk/news/25396580.operation-dark-phone-murder-text-highlights-local-cases/?ref=rss",
+      "pubDate": "2025-08-17T16:41:01.000Z",
+      "source": "The Bolton News | News",
+      "summary": "A new true crime documentary features the case of a key worker from Bolton who used her pass to transport drugs across Greater Manchester during lockdown- alongside one of the UK most significant organised crime investigations."
+    },
+    {
+      "title": "What have we lost? The gaping hole in Nottingham's communities after cuts to key services",
+      "link": "https://www.nottinghampost.com/news/nottingham-news/what-lost-gaping-hole-nottinghams-10387335",
+      "pubDate": "2025-08-17T16:34:39.000Z",
+      "source": "Nottinghamshire Live - frontpage",
+      "summary": "Some blame Nottingham City Council's financial mismanagement, others the lack of funding from the Conservative government, but whoever is responsible, we've lost a great deal"
+    },
+    {
+      "title": "Glasgow crime: Shop assistant seriously injured as attacker 'sprays substance' during robbery",
+      "link": "https://www.scotsman.com/news/crime/shop-assistant-seriously-injured-as-attacker-sprays-substance-during-robbery-5275550",
+      "pubDate": "2025-08-17T16:25:46.000Z",
+      "source": "The Scotsman",
+      "summary": "The attack happened on Saturday evening"
+    },
+    {
+      "title": "Check electricity bill by August 24 to secure £150 Warm Home Discount",
+      "link": "https://www.cambridge-news.co.uk/news/cost-of-living/check-electricity-bill-august-24-32290632",
+      "pubDate": "2025-08-17T16:00:00.000Z",
+      "source": "Cambridgeshire Live - Home",
+      "summary": "The government is urging people to check the details of their electricity bill before a key date in August"
+    },
+    {
+      "title": "Former Norwich City attacker Onel Hernandez spotted at Sheffield Wednesday as fans await first signing",
+      "link": "https://www.thestar.co.uk/sport/football/sheffield-wednesday/norwich-city-sheffield-wednesday-onel-hernandez-5275517",
+      "pubDate": "2025-08-17T15:30:49.000Z",
+      "source": "The Star",
+      "summary": "Former Norwich City attacker, Onel Hernandez, has been spending time training with Sheffield Wednesday."
+    },
+    {
+      "title": "Angela Rayner warned thousands of new homes at risk of dangerous lead pollution",
+      "link": "https://www.independent.co.uk/news/uk/politics/angela-rayner-housing-lead-pollution-kent-britannia-refined-metals-graveshame-b2808347.html",
+      "pubDate": "2025-08-17T15:25:05.000Z",
+      "source": "The Independent UK Politics",
+      "summary": "Exclusive: Thousands of people could be exposed to dangerous lead pollution if a planned housing development goes ahead, a lead refinery has claimed"
+    },
+    {
+      "title": "OPINION - There is a world where knife crime doesn't exist - but to get there we need to act it out",
+      "link": "https://www.standard.co.uk/comment/knife-crime-stabbing-murder-london-teenagers-b1243128.html",
+      "pubDate": "2025-08-17T15:00:04.000Z",
+      "source": "The Standard",
+      "summary": "Knife crime is not just a statistic, it’s a national epidemic. It is an unacceptable reality and a devastating social issue that destroys families and communities across the UK. Every week, I read headline after headline of another teenage killing, where further teenagers are being sentenced to a lifetime in prison. It’s harrowing. Why are we living in a society where this has become normal, commonplace?"
+    },
+    {
+      "title": "Burgling woman among five defendants in North Staffordshire courts",
+      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/burgling-woman-among-five-defendants-10416644",
+      "pubDate": "2025-08-17T15:00:00.000Z",
+      "source": "Stoke-on-Trent Live - frontpage",
+      "summary": "They've all appeared at either Stoke-on-Trent Crown Court or North Staffordshire Justice Centre"
+    },
+    {
+      "title": "Two 'normal' looking terraced houses in Westminster hide extraordinary secret",
+      "link": "https://www.mylondon.news/news/property/two-normal-looking-terraced-houses-32292494",
+      "pubDate": "2025-08-17T14:48:12.000Z",
+      "source": "My London - Home",
+      "summary": "Found in Westminster, it looks like a typical British street with rows of beautiful, characterful Victorian terraces - many of which are listed buildings - but two of the properties are hiding a secret"
+    },
+    {
+      "title": "Rail campaigners say potential 5.5% fares rise would be ‘ripping off’ passengers",
+      "link": "https://www.standard.co.uk/business/business-news/great-british-railways-government-rpi-investec-campaign-for-better-transport-b1243299.html",
+      "pubDate": "2025-08-17T14:18:57.000Z",
+      "source": "The Standard",
+      "summary": "An inflation figure often used to determine increases in the cost of train travel will be announced on Wednesday."
+    },
+    {
+      "title": "Some of the jobs available at Leicestershire County Council at the moment",
+      "link": "https://www.leicestermercury.co.uk/news/jobs/jobs-available-leicestershire-county-council-10419509",
+      "pubDate": "2025-08-17T14:05:52.000Z",
+      "source": "Leicestershire Live - frontpage",
+      "summary": "Sales, events coordinator and complaints roles are among the options"
+    },
+    {
+      "title": "MP launches petition to save Lancashire war memorial - here's what's been happening",
+      "link": "https://www.lep.co.uk/news/mp-launches-petition-to-save-lancashire-war-memorial-heres-whats-been-happening-5274290",
+      "pubDate": "2025-08-17T14:00:23.000Z",
+      "source": "Lancashire Evening Post",
+      "summary": "An MP has launched a petition to save a much-loved First World War memorial."
+    },
+    {
+      "title": "Coffee drinkers told to have cup during two-hour window each day for best benefits",
+      "link": "https://www.gloucestershirelive.co.uk/news/health/coffee-drinkers-told-cup-during-10432558",
+      "pubDate": "2025-08-17T13:12:12.000Z",
+      "source": "Gloucestershire Live - frontpage",
+      "summary": "Coffee can have a range of health effects depending when you have your cup, according to one expert"
+    },
+    {
+      "title": "Plan for 800-home extension of Nottinghamshire town 'once in generation' moment",
+      "link": "https://www.nottinghampost.com/news/local-news/plan-800-home-extension-nottinghamshire-10432210",
+      "pubDate": "2025-08-17T13:00:26.000Z",
+      "source": "Nottinghamshire Live - frontpage",
+      "summary": "A councillor has raised intial concerns about the impact of the homes"
+    },
+    {
+      "title": "New bus service set to reconnect two towns after 2023 cuts",
+      "link": "https://www.gloucestershirelive.co.uk/news/gloucester-news/new-bus-service-set-reconnect-10424184",
+      "pubDate": "2025-08-17T13:00:00.000Z",
+      "source": "Gloucestershire Live - frontpage",
+      "summary": "MP Claire Young hails the return of a vital bus service connecting Thornbury, Yate, and outlying villages as part of a new WestLink trial"
+    },
+    {
+      "title": "Rachel Reeves plotting inheritance tax change so more people pay",
+      "link": "https://www.plymouthherald.co.uk/news/uk-world-news/rachel-reeves-plotting-inheritance-tax-10432566",
+      "pubDate": "2025-08-17T12:30:52.000Z",
+      "source": "Plymouth Live - frontpage",
+      "summary": "The changes would mean that gifts from - for example - parents to children would no longer escape the tax system"
+    },
+    {
+      "title": "Council to allocate £332k towards buying secret Staffordshire site",
+      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/council-allocate-332k-towards-buying-10368400",
+      "pubDate": "2025-08-17T12:00:00.000Z",
+      "source": "Stoke-on-Trent Live - frontpage",
+      "summary": "Stafford Borough Council is also acquiring land near the town's railway station"
+    },
+    {
+      "title": "London council refunding nearly £500K to thousands of drivers wrongly fined for driving in bus lanes",
+      "link": "https://www.standard.co.uk/news/transport/motorists-wrongly-fined-for-driving-in-bus-lanes-set-for-ps500k-refund-b1243309.html",
+      "pubDate": "2025-08-17T11:41:33.000Z",
+      "source": "The Standard",
+      "summary": "Southwark Council illegally issued more than 10,000 penalty charge notices in just four months"
+    },
+    {
+      "title": "‘Absolute nonsense’: Reform denies SNP defection claim after council website glitch",
+      "link": "https://www.heraldscotland.com/news/25396219.aberdeen-council-wrongly-list-snp-councillor-reform/?ref=rss",
+      "pubDate": "2025-08-17T11:13:34.000Z",
+      "source": "The Herald | News",
+      "summary": "Alexander McLellan has warned of legal action after its was wrongly claimed he had defected to Reform UK."
+    },
+    {
+      "title": "County Durham home salon approved despite neighbour concerns",
+      "link": "https://www.thenorthernecho.co.uk/news/25386541.chester-le-street-woman-open-hair-salon-family-home/?ref=rss",
+      "pubDate": "2025-08-17T11:00:00.000Z",
+      "source": "The Northern Echo | News",
+      "summary": "A Chester-le-Street woman has been granted permission by Durham County Council to run a hair salon from her Coquet Drive home."
+    },
+    {
+      "title": "Zelensky claims Russia ‘complicating’ ceasefire efforts as PM meets allies",
+      "link": "https://www.standard.co.uk/news/politics/donald-trump-volodymyr-zelensky-russia-keir-starmer-vladimir-putin-b1243306.html",
+      "pubDate": "2025-08-17T10:24:48.000Z",
+      "source": "The Standard",
+      "summary": "The coalition of the willing, the alliance which is planning to police a future peace deal, will meet on Sunday afternoon."
+    },
+    {
+      "title": "All iPhone owners in the UK issued urgent price warning - you have days to act",
+      "link": "https://www.theboltonnews.co.uk/news/25396141.iphone-owners-uk-issued-urgent-price-warning/?ref=rss",
+      "pubDate": "2025-08-17T10:17:26.000Z",
+      "source": "The Bolton News | News",
+      "summary": "A tech expert has warned iPhone owners they have just 30 days to sell their current models before prices could drop by up to 30%."
+    },
+    {
+      "title": "Want more productivity, Rachel Reeves? It’s time to embrace Mancunian swagger | Richard Partington",
+      "link": "https://www.theguardian.com/business/2025/aug/17/productivity-rachel-reeves-london-manchester",
+      "pubDate": "2025-08-17T10:06:09.000Z",
+      "source": "Politics | The Guardian",
+      "summary": "Manchester is closing the gap on London, with public money having helped to ‘crowd in’ a lot of private investment Over the summer Rachel Reeves has been on a road trip around Britain. From Cornwall and Kent, to Aberdeen, south Wales and Belfast, in search of the solutions for a national economy that is stuck in a rut. Inspired by this tour, the chancellor used a Guardian article last week to set her autumn budget priority: boosting productivity. Tax and spending may dominate news headlines, but this is the real problem facing the country, and no politician of the past two decades has managed to fix it. Continue reading..."
+    },
+    {
+      "title": "Warning that Suffolk solar farm will cause \"so much destruction\"",
+      "link": "https://www.eadt.co.uk/news/25394587.easton-council-chair-says-solar-farm-wrong-place/?ref=rss",
+      "pubDate": "2025-08-17T10:00:00.000Z",
+      "source": "East Anglian Daily Times | News",
+      "summary": "The chair of Easton Parish Council has warned a potential solar farm will cause \"so much destruction\"."
+    },
+    {
+      "title": "The parts of Leicestershire where deaths outnumber births is revealed",
+      "link": "https://www.leicestermercury.co.uk/news/real-life/parts-leicestershire-deaths-outnumber-births-10428095",
+      "pubDate": "2025-08-17T09:59:28.000Z",
+      "source": "Leicestershire Live - frontpage",
+      "summary": "Five of the eight council areas saw more people die than be born"
+    },
+    {
+      "title": "Flat Cliffs, Filey: Grant could help residents of endangered clifftop community on Yorkshire coast",
+      "link": "https://www.yorkshirepost.co.uk/news/flat-cliffs-filey-grant-could-help-residents-of-endangered-clifftop-community-on-yorkshire-coast-5275328",
+      "pubDate": "2025-08-17T09:28:48.000Z",
+      "source": "Yorkshire Post",
+      "summary": "A £90,000 grant to help the residents of an endangered clifftop community in Filey adapt to coastal erosion could be accepted by North Yorkshire Council."
+    },
+    {
+      "title": "York Station: Two drugs lines taken down after two-day taskforce operation at Yorkshire railway station",
+      "link": "https://www.yorkshirepost.co.uk/news/crime/york-station-two-drugs-lines-taken-down-after-two-day-taskforce-operation-at-yorkshire-railway-station-5275325",
+      "pubDate": "2025-08-17T09:25:38.000Z",
+      "source": "Yorkshire Post",
+      "summary": "Two drugs lines have been taken down by British Transport Police’s (BTP) elite County Lines Taskforce during a two-day joint operation with North Yorkshire Police at York station."
     },
     {
       "title": "Scottish Government in new court battle over trans prison and school rules",
@@ -21,48 +567,6 @@
       "pubDate": "2025-08-17T08:36:28.000Z",
       "source": "The Herald | News",
       "summary": "For Women Scotland has launched new legal action over government policies on prisons and schools, claiming they breach the Supreme Court's ruling on sex."
-    },
-    {
-      "title": "Texas CHSq gate times, support act, age restrictions and more for Belfast gig",
-      "link": "https://www.belfastlive.co.uk/whats-on/music-nightlife-news/texas-chsq-gate-times-support-32284579",
-      "pubDate": "2025-08-17T08:15:08.000Z",
-      "source": "BelfastLive - Home",
-      "summary": "Another sold-out show this weekend in the city"
-    },
-    {
-      "title": "HMRC brings in 'mandatory registration' rule with UK households warned",
-      "link": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-brings-mandatory-registration-rule-32243812",
-      "pubDate": "2025-08-17T08:02:00.000Z",
-      "source": "Birmingham Live - Home",
-      "summary": "The Association of Taxation Technicians (ATT) warns owners of firms offering tax advice will be left in an uncertain position by legislation requiring tax advisors to register with the taxman."
-    },
-    {
-      "title": "Rail campaigners say potential 5.5% fares rise would be ‘ripping off’ passengers",
-      "link": "https://www.standard.co.uk/business/business-news/great-british-railways-government-rpi-investec-campaign-for-better-transport-b1243299.html",
-      "pubDate": "2025-08-17T08:00:17.000Z",
-      "source": "The Standard",
-      "summary": "An inflation figure often used to determine increases in the cost of train travel will be announced on Wednesday."
-    },
-    {
-      "title": "The former 'gangland' where kids now spend their summer holidays",
-      "link": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/former-gangland-kids-now-spend-32282075",
-      "pubDate": "2025-08-17T07:46:17.000Z",
-      "source": "MEN - MEN Frontpage",
-      "summary": "A green once surrounded by crime finally feels 'safe' again."
-    },
-    {
-      "title": "The turbulent Greater Manchester council that wants to transform FIVE towns at once",
-      "link": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/turbulent-greater-manchester-council-wants-32280955",
-      "pubDate": "2025-08-17T07:46:17.000Z",
-      "source": "MEN - MEN Frontpage",
-      "summary": "There are grand plans for five major town centre projects in the borough"
-    },
-    {
-      "title": "DWP handing £812 payments to people who claim four common benefits",
-      "link": "https://www.birminghammail.co.uk/news/cost-of-living/dwp-handing-812-payments-people-32243416",
-      "pubDate": "2025-08-17T07:33:00.000Z",
-      "source": "Birmingham Live - Home",
-      "summary": "A Budgeting Loan can help pay for furniture or household items"
     },
     {
       "title": "Latest police data shows 'crime hotspots' across County Durham and Darlington",
@@ -79,34 +583,6 @@
       "summary": "Two apprenticeship roles are being offered by Greater Anglia for young people looking to start careers in rail."
     },
     {
-      "title": "Sheffield retro 70s: 21 photos remembering era of 2p buses, legendary nightclubs and 'Yorkshire Disneyland'",
-      "link": "https://www.thestar.co.uk/retro/sheffield-retro-70s-photos-2p-buses-legendary-nightclubs-and-yorkshire-disneyland-5274708",
-      "pubDate": "2025-08-17T06:30:01.000Z",
-      "source": "The Star",
-      "summary": "It was a great time to grow up in Sheffield."
-    },
-    {
-      "title": "6 DWP benefits where you can get £150 discount from August",
-      "link": "https://www.nottinghampost.com/news/uk-world-news/6-dwp-benefits-you-can-10432026",
-      "pubDate": "2025-08-17T06:27:11.000Z",
-      "source": "Nottinghamshire Live - frontpage",
-      "summary": "The Government has issued a reminder to eligible households to check they are named on their electricity bill before August 24"
-    },
-    {
-      "title": "Plans submitted for 24-hour taxi office in former County Durham car dealership",
-      "link": "https://www.thenorthernecho.co.uk/news/25392966.plans-submitted-24-hour-taxi-office-stanley/?ref=rss",
-      "pubDate": "2025-08-17T06:00:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Plans for a 24-hour taxi office in Stanley have been submitted to Durham County Council."
-    },
-    {
-      "title": "Dad slams council and Severn Trent in four-year fight to fully fix water leak",
-      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/dad-slams-council-severn-trent-10376360",
-      "pubDate": "2025-08-17T05:30:00.000Z",
-      "source": "Stoke-on-Trent Live - frontpage",
-      "summary": "The row dates back to 2021"
-    },
-    {
       "title": "Coventry councillor 'disappointed' after spate of burglaries but disagrees with colleagues about streetlights",
       "link": "https://www.coventrytelegraph.net/news/coventry-news/coventry-councillor-disappointed-after-spate-32283764",
       "pubDate": "2025-08-17T05:26:00.000Z",
@@ -114,60 +590,11 @@
       "summary": "There have been calls to turn streetlights back on after three burglaries in city neighbourhood"
     },
     {
-      "title": "'Don't leave residents 20km from emergency care' - West Lancs Council backs calls for 24 hour A&E in Ormskirk",
-      "link": "https://www.lep.co.uk/news/dont-leave-residents-20km-from-emergency-care-west-lancs-council-backs-calls-for-24-hour-ae-in-ormskirk-5273520",
-      "pubDate": "2025-08-17T05:00:57.000Z",
-      "source": "Lancashire Evening Post",
-      "summary": "Leaders of West Lancashire Borough Council are backing community calls for 24-hour adult and children’s A&E services at Ormskirk Hospital."
-    },
-    {
-      "title": "Sheffield parking: Drivers warned of scam stickers 'stealing money' at city council machines",
-      "link": "https://www.thestar.co.uk/news/crime/sheffield-parking-drivers-warned-of-scam-stickers-stealing-money-at-city-council-machines-5273670",
-      "pubDate": "2025-08-17T05:00:21.000Z",
-      "source": "The Star",
-      "summary": "Drivers are being warned about a Sheffield parking scam which sees criminals using stickers to steal money."
-    },
-    {
-      "title": "15 worst Lancashire secondary schools for GCSE English and maths results",
-      "link": "https://www.lep.co.uk/education/15-worst-lancashire-secondary-schools-for-gcse-english-and-maths-results-5274423",
-      "pubDate": "2025-08-17T05:00:07.000Z",
-      "source": "Lancashire Evening Post",
-      "summary": "With GCSE results day just around the corner, take a look below at the 15 secondary schools in Lancashire that had the lowest GCSE English and maths results last time around."
-    },
-    {
-      "title": "15 worst Lancashire secondary schools for GCSE English and maths results",
-      "link": "https://www.blackpoolgazette.co.uk/education/15-worst-lancashire-secondary-schools-for-gcse-english-and-maths-results-5274423",
-      "pubDate": "2025-08-17T05:00:07.000Z",
-      "source": "Blackpool Gazette",
-      "summary": "With GCSE results day just around the corner, take a look below at the 15 secondary schools in Lancashire that had the lowest GCSE English and maths results last time around."
-    },
-    {
-      "title": "Green light for Darlington flat conversion after partial demolition",
-      "link": "https://www.thenorthernecho.co.uk/news/25386442.building-high-northgate-darlington-reborn-flats/?ref=rss",
-      "pubDate": "2025-08-17T05:00:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Plans to partially demolish a building on High Northgate in Darlington to make way for apartments have been approved by Darlington Borough Council."
-    },
-    {
       "title": "Minehead rail link to national network remains on track",
       "link": "https://www.somersetlive.co.uk/news/somerset-news/minehead-rail-link-national-network-10419991",
       "pubDate": "2025-08-17T05:00:00.000Z",
       "source": "Somerset Live - frontpage",
       "summary": "Plans to reconnect the West Somerset Railway to the national network have taken a step forward after Tiverton and Minehead MP Rachel Gilmour secured a key government meeting"
-    },
-    {
-      "title": "Civic Centre redevelopment branded 'more of our money wasted'",
-      "link": "https://www.plymouthherald.co.uk/news/news-opinion/civic-centre-redevelopment-branded-more-10417746",
-      "pubDate": "2025-08-17T05:00:00.000Z",
-      "source": "Plymouth Live - frontpage",
-      "summary": "Councillor Tudor Evans said 'this isn't about the council making money'"
-    },
-    {
-      "title": "Plymouth city centre housing plan welcomed ‘great idea and saves our green fields’",
-      "link": "https://www.plymouthherald.co.uk/news/news-opinion/plymouth-city-centre-housing-plan-10421943",
-      "pubDate": "2025-08-17T05:00:00.000Z",
-      "source": "Plymouth Live - frontpage",
-      "summary": "The council said it is commissioning the planning work needed to set out how 10,000 new homes can be created"
     },
     {
       "title": "The poshest council house in the land is in Cornwall",
@@ -198,60 +625,11 @@
       "summary": "On this day a year ago, plans were submitted to Darlington Borough Council's planning authority for the conversion of the former Northern Echo building in Priestgate, Darlington, into an adult learning facility and office space."
     },
     {
-      "title": "Coventry landlords fined £400k for housing breaches in the past year",
-      "link": "https://www.coventrytelegraph.net/news/coventry-news/coventry-landlords-fined-400k-housing-32242966",
-      "pubDate": "2025-08-17T04:00:00.000Z",
-      "source": "Coventry Live - Home",
-      "summary": "Offences ranged from energy breaches to licencing failures"
-    },
-    {
-      "title": "Private school appeals refused decision for new boarding houses",
-      "link": "https://www.oxfordmail.co.uk/news/25387388.oxford-private-school-appeals-refused-decision-new-boarding-houses/?ref=rss",
-      "pubDate": "2025-08-17T04:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "An Oxford private school is appealing a council's decision to refuse its plans for new boarding houses."
-    },
-    {
-      "title": "Council buys land next to pub for £75,000",
-      "link": "https://www.oxfordmail.co.uk/news/25388166.land-next-oxfordshire-pub-bought-parish-council/?ref=rss",
-      "pubDate": "2025-08-17T04:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "A council has bought land next to a pub to bring it into use for the community."
-    },
-    {
       "title": "DWP new rules for bank monitoring as date confirmed for tough new measures",
       "link": "https://www.cambridge-news.co.uk/news/cost-of-living/dwp-new-rules-bank-monitoring-32287341",
       "pubDate": "2025-08-17T04:00:00.000Z",
       "source": "Cambridgeshire Live - Home",
       "summary": "The Department for Work and Pensions (DWP) is to be handed a wide range of new powers to tackle benefits fraud, with the UK Government embarking on \"the biggest fraud crackdown in a generation\""
-    },
-    {
-      "title": "People living in tents in Bristol parks are being 'closely monitored'",
-      "link": "https://www.bristolpost.co.uk/news/bristol-news/people-living-tents-bristol-parks-10427372",
-      "pubDate": "2025-08-17T04:00:00.000Z",
-      "source": "Bristol Post - frontpage",
-      "summary": "The council says it takes a sensitive approach but is \"willing to take legal action where appropriate\""
-    },
-    {
-      "title": "The huge Nottinghamshire housing plans currently being decided by councils",
-      "link": "https://www.nottinghampost.com/news/local-news/huge-nottinghamshire-housing-plans-currently-10423218",
-      "pubDate": "2025-08-17T03:00:00.000Z",
-      "source": "Nottinghamshire Live - frontpage",
-      "summary": "Hundreds of homes are currently waiting for approval across the county"
-    },
-    {
-      "title": "Nottingham care home residents 'crying their eyes out' after council pulls services",
-      "link": "https://www.nottinghampost.com/news/nottingham-news/nottingham-care-home-residents-crying-10428426",
-      "pubDate": "2025-08-17T03:00:00.000Z",
-      "source": "Nottinghamshire Live - frontpage",
-      "summary": "Nottingham City Council say they remain 'in close discussion' over the plans"
-    },
-    {
-      "title": "Derbyshire Cricket Club committee member and businessman in Derby Telegraph funeral notices",
-      "link": "https://www.derbytelegraph.co.uk/news/local-news/derbyshire-cricket-club-committee-member-10428880",
-      "pubDate": "2025-08-17T03:00:00.000Z",
-      "source": "Derbyshire Live - frontpage",
-      "summary": "Our thoughts are with those who have lost a loved one"
     },
     {
       "title": "21 photographs of Derbyshire students celebrating their brilliant A-level results",
@@ -261,207 +639,18 @@
       "summary": "Many schools recorded some of their best-ever results including probably Derbyshire's brightest teenager"
     },
     {
+      "title": "Derbyshire Cricket Club committee member and businessman in Derby Telegraph funeral notices",
+      "link": "https://www.derbytelegraph.co.uk/news/local-news/derbyshire-cricket-club-committee-member-10428880",
+      "pubDate": "2025-08-17T03:00:00.000Z",
+      "source": "Derbyshire Live - frontpage",
+      "summary": "Our thoughts are with those who have lost a loved one"
+    },
+    {
       "title": "Council urged to halt planned sale of green belt land amid plans for huge development",
       "link": "https://www.thetelegraphandargus.co.uk/news/25392359.council-urged-stop-planned-sale-green-belt-land/?ref=rss",
       "pubDate": "2025-08-17T02:14:00.000Z",
       "source": "Bradford Telegraph and Argus | News",
       "summary": "Campaigners and councillors have submitted a petition urging Bradford Council to stop the proposed sale of green belt land - amid plans for a huge new development at the site."
-    },
-    {
-      "title": "Households need to check detail this week or risk £150 Warm Home Discount payment",
-      "link": "https://www.plymouthherald.co.uk/news/cost-of-living/households-need-check-detail-week-10421092",
-      "pubDate": "2025-08-17T01:20:00.000Z",
-      "source": "Plymouth Live - frontpage",
-      "summary": "Eligible households need to check their electricity bill or risk missing out on the automatic benefit"
-    },
-    {
-      "title": "Money expert’s five checks for overpaying council tax after Inbetweener star’s rant",
-      "link": "https://www.leicestermercury.co.uk/news/cost-of-living/money-experts-five-checks-overpaying-10425550",
-      "pubDate": "2025-08-17T00:06:00.000Z",
-      "source": "Leicestershire Live - frontpage",
-      "summary": "James Buckley's recent scathing remarks about council services could be the wake-up call households need to check if they are overpaying"
-    },
-    {
-      "title": "Rayner claims Farage’s Reform will ‘fail women’ in online safety act row",
-      "link": "https://www.independent.co.uk/news/uk/politics/rayner-reform-online-safety-act-b2808956.html",
-      "pubDate": "2025-08-17T00:05:04.000Z",
-      "source": "The Independent UK Politics",
-      "summary": "Nigel Farage has cited freedom of speech concerns and says the act is an example of overreach by the government"
-    },
-    {
-      "title": "Neil Kinnock calls for government to scrap two-child cap on benefits",
-      "link": "https://www.theguardian.com/politics/2025/aug/16/neil-kinnock-calls-for-government-to-scrap-two-child-cap-on-benefits",
-      "pubDate": "2025-08-16T22:58:31.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Former Labour leader says rising UK poverty ‘would make Dickens furious’ and calls for wealth tax to help reverse it Labour must scrap the two-child cap on benefits to lift children out of poverty, the party’s former leader Neil Kinnock has urged. Rising levels of poverty “would make Charles Dickens furious”, Lord Kinnock said in an interview with the Sunday Mirror, in which he also called on ministers to introduce a wealth tax. Continue reading..."
-    },
-    {
-      "title": "Anti-racism and anti-immigration protesters in Falkirk face off outside asylum hotel",
-      "link": "https://www.theguardian.com/uk-news/2025/aug/16/anti-racism-and-anti-immigration-protesters-in-falkirk-face-off-outside-asylum-hotel",
-      "pubDate": "2025-08-16T22:23:19.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Counter-demonstration offers welcome to refugees as anti-migrant protesters gather outside Cladhan hotel Anti-racism campaigners held a counter-demonstration against people protesting against “uncontrolled illegal immigration” outside a hotel used to house asylum seekers in Scotland. Stand Up to Racism Scotland, Falkirk Trades Union Council and local people said they organised the gathering in Falkirk on Saturday to show that refugees are welcome in the town. Organisers described it as a “safely stewarded community event with music, speeches from the local community, the trade union movement, local campaigns, faith groups and others”. Demonstrators held placards with messages such as “stop the far right”, “refugees welcome” and “migrants make our NHS”. Continue reading..."
-    },
-    {
-      "title": "AI to help slash NHS hospital discharge delays, officials say",
-      "link": "https://www.standard.co.uk/news/tech/nhs-technology-doctors-peter-kyle-chelsea-b1243288.html",
-      "pubDate": "2025-08-16T21:30:00.000Z",
-      "source": "The Standard",
-      "summary": "The platform uses artificial intelligence to help complete the documents needed to discharge patients, potentially saving hours of delays."
-    },
-    {
-      "title": "NI's temporary accommodation spending costs revealed",
-      "link": "https://www.belfastlive.co.uk/news/nis-temporary-accommodation-spending-costs-32285881",
-      "pubDate": "2025-08-16T19:03:58.000Z",
-      "source": "BelfastLive - Home",
-      "summary": "The figures were published on the Northern Ireland Assembly website, following a request from the Foyle MLA Mark H Durkan"
-    },
-    {
-      "title": "Plans to install solar panels at Durham primary school approved",
-      "link": "https://www.thenorthernecho.co.uk/news/25389364.nevilles-cross-primary-school-durham-solar-panels-approved/?ref=rss",
-      "pubDate": "2025-08-16T19:00:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Plans to install solar panels at Nevilles Cross Primary School, Durham have been approved by Durham County Council."
-    },
-    {
-      "title": "Shoplifters feel they can rob with impunity, police chief says",
-      "link": "https://www.standard.co.uk/news/politics/police-north-wales-police-sussex-writing-sussex-police-b1243237.html",
-      "pubDate": "2025-08-16T17:34:42.000Z",
-      "source": "The Standard",
-      "summary": "Police and crime commissioner for Sussex Katy Bourne called for more ‘meaningful criminal justice measures’."
-    },
-    {
-      "title": "Drivers could be fined £1,000 for 'friendly gesture' to other motorists",
-      "link": "https://www.yorkpress.co.uk/news/25395089.highway-code-1-000-fine-warning-drivers-flashing-lights/?ref=rss",
-      "pubDate": "2025-08-16T17:00:00.000Z",
-      "source": "York Press | News",
-      "summary": "Not only does the act breach the Highway Code, it can also be considered as ‘obstructing police duties.’"
-    },
-    {
-      "title": "Farage adviser said UK would be better off if it had not fought in WW2",
-      "link": "https://www.theguardian.com/politics/2025/aug/16/nigel-farage-adviser-uk-would-be-better-off-if-it-had-not-fought-nazi-germany",
-      "pubDate": "2025-08-16T16:00:06.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Exclusive: Jack Anderton says UK may ‘regain’ former colonies in future and suggests end to support for Ukraine An adviser used by Nigel Farage and others in Reform UK to boost their social media popularity has suggested that Britain would be better off had it stayed neutral in the second world war instead of fighting Nazi Germany. Jack Anderton, who ran Farage’s hugely successful TikTok account before helping Luke Campbell become the Reform mayor of Hull and East Yorkshire, also said the UK should not support Ukraine in its fight against Russian aggression. Continue reading..."
-    },
-    {
-      "title": "Oxford City Council reduces carbon emissions by six per cent",
-      "link": "https://www.oxfordmail.co.uk/news/25391198.oxford-city-council-reduces-carbon-emissions-6/?ref=rss",
-      "pubDate": "2025-08-16T16:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "Oxford City Council reduced its carbon emissions by six per cent during the 12 months to the end of March last year."
-    },
-    {
-      "title": "ScotRail rolls with it in busiest 2025 week as Oasis fans flock to Edinburgh",
-      "link": "https://www.standard.co.uk/culture/music/scotrail-oasis-edinburgh-noel-gallagher-murrayfield-stadium-b1243266.html",
-      "pubDate": "2025-08-16T15:18:27.000Z",
-      "source": "The Standard",
-      "summary": "The rail operator said it carried almost two million passengers in the week the band put on three sellout concerts in the capital."
-    },
-    {
-      "title": "Plea to support plans for new Durham cafe after council's outdoor gym scrapped",
-      "link": "https://www.thenorthernecho.co.uk/news/25393613.plea-support-plans-new-durham-cafe-elvet-waterside/?ref=rss",
-      "pubDate": "2025-08-16T15:00:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Community volunteers have welcomed a decision to scrap plans for an outdoor gym and urged leaders to back its bid to build a multi-use cafe."
-    },
-    {
-      "title": "Ofsted rules Stoke-on-Trent children's services still not good enough",
-      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/stoke-trent-childrens-services-still-10363224",
-      "pubDate": "2025-08-16T15:00:00.000Z",
-      "source": "Stoke-on-Trent Live - frontpage",
-      "summary": "It has told Stoke-on-Trent City Council to make improvements"
-    },
-    {
-      "title": "Appeal launched over controversial 40-home estate in leafy North Staffordshire village",
-      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/appeal-launched-over-40-houses-10398701",
-      "pubDate": "2025-08-16T15:00:00.000Z",
-      "source": "Stoke-on-Trent Live - frontpage",
-      "summary": "A planning inspector could overturn the council's decision"
-    },
-    {
-      "title": "Dealers 'selling hard drugs during Mass' in pews and grounds of Westminster Cathedral",
-      "link": "https://www.standard.co.uk/news/london/drugs-dealing-westminster-cathedral-mass-b1243238.html",
-      "pubDate": "2025-08-16T14:48:25.000Z",
-      "source": "The Standard",
-      "summary": "Worshippers say Britain’s biggest Roman Catholic church has been overrun with criminals selling illegal substances"
-    },
-    {
-      "title": "'Bus driver caught in sex act' onboard by horrified 15-year-old girl",
-      "link": "https://www.oxfordmail.co.uk/news/25395408.oxford-bus-driver-caught-sex-act-horrified-girl-15/?ref=rss",
-      "pubDate": "2025-08-16T14:13:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "A 15-year-old girl was left horrified after witnessing an Oxford bus driver engaging in a \"sex act\" whilst still onboard the bus."
-    },
-    {
-      "title": "The best Leicestershire pub gardens with children's play areas",
-      "link": "https://www.leicestermercury.co.uk/whats-on/best-leicestershire-pub-gardens-childrens-10418836",
-      "pubDate": "2025-08-16T13:50:04.000Z",
-      "source": "Leicestershire Live - frontpage",
-      "summary": "Planning a family meal at a pub? Take a look at the places with play areas"
-    },
-    {
-      "title": "Taxpayers face bill as 'unsafe' Leicestershire methane site hit by vandalism",
-      "link": "https://www.leicestermercury.co.uk/news/local-news/taxpayers-face-bill-unsafe-leicestershire-10431018",
-      "pubDate": "2025-08-16T13:22:19.000Z",
-      "source": "Leicestershire Live - frontpage",
-      "summary": "The incidents are causing delays in securing the site"
-    },
-    {
-      "title": "Festival fun with fairground rides, live performances and much more  at pub TODAY",
-      "link": "https://www.theboltonnews.co.uk/news/25395334.sparking-clog-radcliffe-stages-funday-taylors-academy/?ref=rss",
-      "pubDate": "2025-08-16T12:45:17.000Z",
-      "source": "The Bolton News | News",
-      "summary": "Summer would not be summer without a festival! And Taylor's Theatre Academy has one in full swing at a popular pub right now."
-    },
-    {
-      "title": "Staff at Blackpool's £34m Holiday Inn hotel make special pledge to the Blackpool community",
-      "link": "https://www.blackpoolgazette.co.uk/news/people/staff-at-ps34m-hotel-make-special-pledge-to-the-blackpool-community-5274987",
-      "pubDate": "2025-08-16T12:24:51.000Z",
-      "source": "Blackpool Gazette",
-      "summary": "The team behind Blackpool’s new £34million Holiday Inn hotel have once again proved they are more than just hospitality experts."
-    },
-    {
-      "title": "Samurai swords, ice picks and meat cleavers seized by police in knife crime crackdown",
-      "link": "https://www.thenorthernecho.co.uk/news/25395305.samurai-swords-ice-picks-seized-cleveland-police/?ref=rss",
-      "pubDate": "2025-08-16T12:14:11.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Cleveland Police has been carrying out targeted knife crime-related activity this week"
-    },
-    {
-      "title": "MP slams police commissioner for shoplifting remarks",
-      "link": "https://www.oxfordmail.co.uk/news/25394635.thames-valley-police-commissioner-slammed-third-mp/?ref=rss",
-      "pubDate": "2025-08-16T12:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "Henley and Thame MP Freddie van Mierlo has heavily criticised remarks made by the Thames Valley Police Commissioner, becoming the third MP to do so"
-    },
-    {
-      "title": "'Monstrous' solar farm plans discussed in 'most unusual' planning meeting",
-      "link": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/monstrous-solar-farm-plans-discussed-10427015",
-      "pubDate": "2025-08-16T11:11:41.000Z",
-      "source": "Hull Live - frontpage",
-      "summary": "One councillor described the meeting as 'probably the most unusual planning meeting I've ever been to'"
-    },
-    {
-      "title": "Four ways the UK has tried to stop small boat Channel crossings",
-      "link": "https://www.theguardian.com/uk-news/2025/aug/16/four-ways-the-uk-has-tried-to-stop-small-boat-channel-crossings",
-      "pubDate": "2025-08-16T11:00:05.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "From Rwanda to wave machines, successive governments have tried, and failed, to deter people crossing from France ‘You don’t see many locals at anti-migrant protests’: Kent residents work for community cohesion Many schemes to stop small boat crossings in the Channel have been considered by UK governments in recent years, from the Rwanda policy to “wave-machines”. Here are four of them. Continue reading..."
-    },
-    {
-      "title": "Plans to convert Darlington gym into 10-bed HMO submitted",
-      "link": "https://www.thenorthernecho.co.uk/news/25389267.plans-10-bed-hmo-crosby-street-darlington-submitted/?ref=rss",
-      "pubDate": "2025-08-16T11:00:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Plans to convert a former gym on Crosby Street into a 10-bed HMO have been submitted to Darlington Borough Council."
-    },
-    {
-      "title": "Call for MoD to pay towards Catterick transport infrastructure",
-      "link": "https://www.yorkshirepost.co.uk/news/transport/call-for-mod-to-pay-towards-catterick-transport-infrastructure-5274914",
-      "pubDate": "2025-08-16T10:10:19.000Z",
-      "source": "Yorkshire Post",
-      "summary": "The Ministry of Defence (MoD) should contribute towards improved transport links as it continues to expand a North Yorkshire military base, a councillor has claimed."
     },
     {
       "title": "Decision made on bid to convert Glasgow offices into flats",
@@ -492,27 +681,6 @@
       "summary": "A furious mum is set to take legal action against Glasgow City Council after it failed to find a specialist school placement for her severely autistic daughter."
     },
     {
-      "title": "The one Cambridgeshire area which had more deaths than births in 2024",
-      "link": "https://www.cambridge-news.co.uk/news/local-news/one-cambridgeshire-area-more-deaths-32254467",
-      "pubDate": "2025-08-16T08:21:34.000Z",
-      "source": "Cambridgeshire Live - Home",
-      "summary": "Only one council area in Cambridgeshire recorded more deaths than births in 2024 according to the Office for National Statistics"
-    },
-    {
-      "title": "Shabana Mahmood: justice secretary and rising star of the Labour party",
-      "link": "https://www.theguardian.com/politics/2025/aug/16/shabana-mahmood-justice-secretary-and-rising-star-of-the-labour-party",
-      "pubDate": "2025-08-16T08:00:56.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Described as a pragmatic politician with an instinct for the times, Mahmood is thought of by some as a future Labour leader Shabana Mahmood knows what it is like to live in an area where crime feels out of control. While she was growing up in Small Heath in inner-city Birmingham in the 1980s and 90s, her father kept a cricket bat behind the till of the family shop to fend off would-be robbers. Three decades later, Mahmood is Labour’s justice secretary and lord chancellor, tasked with cutting crime at a time when public concern about it is rising. Continue reading..."
-    },
-    {
-      "title": "Government pulls funding for Cambridge waste water plant relocation to Honey Hill",
-      "link": "https://www.cambridge-news.co.uk/news/cambridge-news/government-pulls-funding-cambridge-waste-32287236",
-      "pubDate": "2025-08-16T07:01:55.000Z",
-      "source": "Cambridgeshire Live - Home",
-      "summary": "The move means that the a planned housing development in the north east will no longer be able to go ahead. The Hartree development would have included more than 8,500 homes."
-    },
-    {
       "title": "Housing Secretary Mairi McAllan to meet with RAAC-affected homeowners",
       "link": "https://www.heraldscotland.com/news/25393736.scottish-government-urged-back-raac-homeowners-campaign/?ref=rss",
       "pubDate": "2025-08-16T07:00:00.000Z",
@@ -527,13 +695,6 @@
       "summary": "HELEN MEAD has a day out to remember - in Halifax"
     },
     {
-      "title": "New machine shop planned by engineering company",
-      "link": "https://www.thetelegraphandargus.co.uk/news/25393847.new-machine-shop-planned-company/?ref=rss",
-      "pubDate": "2025-08-16T06:10:00.000Z",
-      "source": "Bradford Telegraph and Argus | News",
-      "summary": "A company is planning a new machine shop at its West Yorkshire site."
-    },
-    {
       "title": "Like Jeremy Corbyn and Sophie Ellis-Bextor, I grew up in Woodcraft Folk. Here’s how it changes children’s lives | Phineas Harper",
       "link": "https://www.theguardian.com/commentisfree/2025/aug/16/woodcraft-folk-jeremy-corbyn-children-scouts-keir-starmer",
       "pubDate": "2025-08-16T05:00:55.000Z",
@@ -541,88 +702,11 @@
       "summary": "The leftwing alternative to Scouts turns 100 this year. If Keir Starmer wants to empower Britain’s young people, it has much to teach him At the age of six I made the most important decision of my life: I joined Woodcraft Folk. It’s impossible to overstate the impact that growing up in the UK’s oldest co-educational youth movement made on me. My values, my skills, the deep friendships that have lasted into adulthood, the very fact that I am writing these words in this paper, every vote I have ever cast – all can be traced back to my time in Woodcraft Folk. The largest leftwing force in British youth work, the charity turns 100 this year. It has produced some striking alumni including former Labour party leader Jeremy Corbyn, pop star Sophie Ellis-Bextor, poet Michael Rosen, and political editor Robert Peston. With the government announcing new funding to boost youth services outside schools, Woodcraft Folk’s centenary is the perfect moment to learn from its remarkable story and unique approach to youth empowerment. Continue reading..."
     },
     {
-      "title": "MPs demand urgent action as Taunton maternity unit faces 2033 delay",
-      "link": "https://www.somersetlive.co.uk/news/somerset-news/mps-demand-urgent-action-taunton-10421534",
-      "pubDate": "2025-08-16T05:00:00.000Z",
-      "source": "Somerset Live - frontpage",
-      "summary": "Two Somerset MPs have called for urgent investment in Taunton’s Musgrove Park maternity unit, warning that a rebuild planned for 2033 is too late for staff and patients already under severe pressure"
-    },
-    {
-      "title": "'I'll fight for beaches, health and young people’s futures'",
-      "link": "https://www.somersetlive.co.uk/news/somerset-news/ill-fight-beaches-health-young-10415435",
-      "pubDate": "2025-08-16T05:00:00.000Z",
-      "source": "Somerset Live - frontpage",
-      "summary": "Weston MP Dan Aldridge has shared his personal journey and pledged to keep fighting for improvements in health, services and opportunities in the town"
-    },
-    {
-      "title": "23 County Durham planning applications you need to know about",
-      "link": "https://www.thenorthernecho.co.uk/news/25392951.23-county-durham-planning-applications-listed-last-week/?ref=rss",
-      "pubDate": "2025-08-16T04:45:00.000Z",
-      "source": "The Northern Echo | News",
-      "summary": "Here are the latest planning applications submitted to Durham County Council, featuring proposals for new homes, tree works, home extensions, and changes of use across the county."
-    },
-    {
       "title": "Nicola Sturgeon's poverty attainment gap mistake could 'punish' SNP at election",
       "link": "https://www.heraldscotland.com/news/25394732.sturgeon-attainment-gap-mistake-punish-snp/?ref=rss",
       "pubDate": "2025-08-16T04:30:00.000Z",
       "source": "The Herald | News",
       "summary": "A polling expert has warned Nicola Sturgeon's attainment gap 'mistake' could have knock-on effects on the SNP ahead of the 2026 Holyrood election."
-    },
-    {
-      "title": "Fears raised over proposed closure of Somerset hospital beds",
-      "link": "https://www.somersetlive.co.uk/news/somerset-news/fears-raised-over-proposed-closure-10420323",
-      "pubDate": "2025-08-16T04:24:00.000Z",
-      "source": "Somerset Live - frontpage",
-      "summary": "The changes form part of wider plans by Somerset NHS Foundation Trust affecting community hospitals across the county."
-    },
-    {
-      "title": "Bid to help North Yorkshire residents at risk of losing homes to coastal erosion",
-      "link": "https://www.yorkpress.co.uk/news/25394650.90-000-grant-help-tackle-filey-coastal-erosion-danger/?ref=rss",
-      "pubDate": "2025-08-16T04:00:00.000Z",
-      "source": "York Press | News",
-      "summary": "A £90,000 grant to help the residents of an endangered clifftop community in North Yorkshire adapt to coastal erosion could be accepted by council chiefs."
-    },
-    {
-      "title": "'What a journey it was': Bradford midwife wins lifetime achievement award",
-      "link": "https://www.thetelegraphandargus.co.uk/news/25394421.viv-dolby-bihr-receives-nihr-lifetime-achievement-award/?ref=rss",
-      "pubDate": "2025-08-16T04:00:00.000Z",
-      "source": "Bradford Telegraph and Argus | News",
-      "summary": "Viv Dolby, a Bradford midwife with nearly 50 years in the NHS, has received the NIHR Lifetime Achievement Award for her outstanding contributions to midwifery research and patient care"
-    },
-    {
-      "title": "Inside the crucial meeting that secured Oxford United stadium's future",
-      "link": "https://www.oxfordmail.co.uk/news/25394618.inside-crucial-meeting-secured-oufcs-future/?ref=rss",
-      "pubDate": "2025-08-16T04:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "One four-hour long council meeting determined the future of Oxford United Football Club, its fans, and Kidlington."
-    },
-    {
-      "title": "Hopes pensioner 'recovers quickly' after 'horrifying' collision",
-      "link": "https://www.oxfordmail.co.uk/news/25394490.oxfordshire-councillor-speaks-horrifying-incident/?ref=rss",
-      "pubDate": "2025-08-16T04:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "An Oxfordshire councillor has wished a woman in her 80s \"the very best\" after she was airlifted to the John Radcliffe Hospital yesterday."
-    },
-    {
-      "title": "Scales of Justice: The latest cases from Oxford Magistrates' Court",
-      "link": "https://www.oxfordmail.co.uk/news/25386276.scales-justice-results-oxford-magistrates-court/?ref=rss",
-      "pubDate": "2025-08-16T04:00:00.000Z",
-      "source": "Oxford Mail | News",
-      "summary": "The latest court cases in Oxford Magistrates' Court:"
-    },
-    {
-      "title": "'97 per cent of Airbnb-style planning bids refused', new industry research finds",
-      "link": "https://www.heraldscotland.com/news/25394604.97-per-cent-edinburgh-airbnb-style-flat-plans-refused/?ref=rss",
-      "pubDate": "2025-08-16T03:32:00.000Z",
-      "source": "The Herald | News",
-      "summary": "Nearly all planning applications around Airbnb-style accommodation were rejected, industry research shows"
-    },
-    {
-      "title": "No U-turn likely as thousands more to be hit with inheritance tax",
-      "link": "https://www.heraldscotland.com/news/25391629.no-u-turn-thousands-hit-inheritance-tax/?ref=rss",
-      "pubDate": "2025-08-16T03:30:00.000Z",
-      "source": "The Herald | News",
-      "summary": "UK Government unlikely to change direction on inheritance tax proposals, meaning thousands of more estates will be affected"
     },
     {
       "title": "A38 Derby expansion cost will soar by shock 200% to £646m, say campaigners",
@@ -681,13 +765,6 @@
       "summary": "The theologian who made the claim said he wanted to work with the shadow justice secretary."
     },
     {
-      "title": "Derby man fined three times for breaking road rules - on his own street",
-      "link": "https://www.derbytelegraph.co.uk/news/derby-news/derby-man-fined-three-times-10430107",
-      "pubDate": "2025-08-15T16:06:35.000Z",
-      "source": "Derbyshire Live - frontpage",
-      "summary": "But Adrian Collis admits that traffic problems were much worse before Derby City Council took action"
-    },
-    {
       "title": "Epping hotel for migrants puts public at 'unacceptable' risk, council tells court",
       "link": "https://www.bbc.com/news/articles/cp8z537ngvno?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-15T16:05:15.000Z",
@@ -709,27 +786,6 @@
       "summary": "Birmingham City Council says the flags are being removed due streetlights being upgraded."
     },
     {
-      "title": "Police update after man stabbed during fight in crime-hit in Ilkeston town centre",
-      "link": "https://www.derbytelegraph.co.uk/news/local-news/police-update-after-man-stabbed-10430084",
-      "pubDate": "2025-08-15T15:21:51.000Z",
-      "source": "Derbyshire Live - frontpage",
-      "summary": "Police were anxious to reassure people by saying it was an 'isolated incident'"
-    },
-    {
-      "title": "The nine top-performing secondary schools in Wigan named - ahead of results day",
-      "link": "https://www.wigantoday.net/education/the-nine-top-performing-secondary-schools-in-wigan-named-ahead-of-results-day-5274319",
-      "pubDate": "2025-08-15T14:11:37.000Z",
-      "source": "Wigan Today",
-      "summary": "With GCSE results day almost upon us this Thursday (August 211), discover the top-performing high schools in Wigan."
-    },
-    {
-      "title": "Wigan Sunday school pictures from the 1930s to '80s",
-      "link": "https://www.wigantoday.net/education/wigan-sunday-school-pictures-from-the-1930s-to-80s-5274115",
-      "pubDate": "2025-08-15T13:21:56.000Z",
-      "source": "Wigan Today",
-      "summary": "It’s Sunday, so what better picture look-back than at Wigan Sunday schools of the past."
-    },
-    {
       "title": "MP's WhatsApp messages suspension to be lifted",
       "link": "https://www.bbc.com/news/articles/c78mz81mdelo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-15T11:51:44.000Z",
@@ -737,11 +793,11 @@
       "summary": "Burnley MP Oliver Ryan to have the whip restored while investigations into Andrew Gwynne MP continue."
     },
     {
-      "title": "Teachers warn 'time is running out' for government to avert industrial action",
-      "link": "https://www.heraldscotland.com/news/25393128.eis-says-time-running-out-avert-school-strikes/?ref=rss",
-      "pubDate": "2025-08-15T11:49:36.000Z",
-      "source": "The Herald | News",
-      "summary": "Scotland's largest teaching union has warned 'time is running out' avert industrial action, with schools re-opening after the summer"
+      "title": "Little Jigsaw's Day Nursery, Pemberton: Class Act pictures",
+      "link": "https://www.wigantoday.net/community/little-jigsaws-day-nursery-pemberton-class-act-pictures-5273103",
+      "pubDate": "2025-08-15T07:54:34.000Z",
+      "source": "Wigan Today",
+      "summary": "Children are pictured having fun while learning inside and exploring outdoors at Little Jigsaw’s Children’s Day Nursery, Pemberton, Wigan."
     },
     {
       "title": "'No regrets' for Reform mayor Luke Campbell",
@@ -749,13 +805,6 @@
       "pubDate": "2025-08-15T05:03:57.000Z",
       "source": "BBC News",
       "summary": "The Hull and East Yorkshire mayor reflects on his first 100 days in the job."
-    },
-    {
-      "title": "Re-housing falcons and a £10mn front door: Westminster’s spiralling refurbishment costs ",
-      "link": "https://www.ft.com/content/9e4b16ec-071f-40c8-9171-d2cf86737ce4",
-      "pubDate": "2025-08-15T04:00:00.000Z",
-      "source": "UK",
-      "summary": "MPs worry that recent building blunders will be repeated when badly needed works to upgrade Parliament begin"
     },
     {
       "title": "Four things we learned from speaking to the shadow chancellor",
@@ -772,34 +821,6 @@
       "summary": "The prime minister says foreign and domestic policy must be more closely unified. The problem is that he is failing to do it The aim of Thursday’s Downing Street meeting between Sir Keir Starmer and Volodymyr Zelenskyy could not have been clearer. It was to send a strong visual political message to President Trump on the eve of his Alaska talks with Vladimir Putin. Neither the prime minister nor Ukraine’s president spoke publicly. The Ukraine leader was greeted with a hug and a handshake. The two men then talked in private by a vase of sunflowers, Ukraine’s national flower. So much is at stake in Ukraine and so great is the urgency that European leaders have moved fast and determinedly this week – not something one can often say. The aim is to remind Mr Trump that Europe stands with Ukraine against Russia. The solidarity has been well choreographed – and tightly scripted. No leader has said anything that might provoke Mr Trump. Whether the US president will take any notice, let alone serious notice, is something else. That will only become clear in and after Alaska. Continue reading..."
     },
     {
-      "title": "Westminster forgets that inflation matters",
-      "link": "https://www.ft.com/content/d21cb836-c8a6-4bd8-98c4-cfb5ededfd33",
-      "pubDate": "2025-08-14T16:22:10.000Z",
-      "source": "UK",
-      "summary": "Most of those in the political world chafe at higher costs but, unlike voters, they are not at the sharp end"
-    },
-    {
-      "title": "Frankly — Nicola Sturgeon’s memoir of Scottish politics vs personal life",
-      "link": "https://www.ft.com/content/98ad53fe-6eae-4ae1-9d97-906054faeff1",
-      "pubDate": "2025-08-14T16:00:24.000Z",
-      "source": "UK",
-      "summary": "Scotland’s first female leader was one of its most popular politicians, yet her independence policy also made her one of the most polarising"
-    },
-    {
-      "title": "In charts: UK private schools lose ground to state rivals in A-level results race",
-      "link": "https://www.ft.com/content/7ba6e169-fe9a-4dca-841e-25784e75a00d",
-      "pubDate": "2025-08-14T15:38:36.000Z",
-      "source": "UK",
-      "summary": "Data shows increasing popularity of science and maths, while boys overtake girls in top grades"
-    },
-    {
-      "title": "Councillor's rally comments 'wrong', court hears",
-      "link": "https://www.bbc.com/news/articles/cwy5n5z6023o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-14T15:04:18.000Z",
-      "source": "BBC News",
-      "summary": "Ricky Jones denies encouraging violent disorder after comments at a counter-protest last year."
-    },
-    {
       "title": "More than 11,000 no-fault bailiff evictions in past year",
       "link": "https://www.bbc.com/news/articles/cn92727v8ezo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-14T14:47:29.000Z",
@@ -807,11 +828,11 @@
       "summary": "In its manifesto, Labour vowed to ban Section 21 orders which allow landlords to remove tenants without a reason."
     },
     {
-      "title": "A policy that benefited the richest and cost the UK £100bn: it's long past time to end the fuel duty freeze | Larry Elliott",
-      "link": "https://www.theguardian.com/commentisfree/2025/aug/14/fuel-duty-rachel-reeves-uk-chancellor-motorists",
-      "pubDate": "2025-08-14T07:00:27.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Successive chancellors have steered clear of increasing taxes for motorists for 15 years, but this should be a no-brainer for cash-strapped Rachel Reeves Nothing speaks so eloquently of the rundown state of Britain than potholes on the roads. Motorists rightly complain of the damage caused to their vehicles. Cyclists risk serious injury every time they mount their bikes. Increased road use from a rising population is one reason for the problem. Cuts to repair budgets are another. Fixing the problem will be expensive, with one estimate putting the cost of mending potholes in England and Wales at a hefty £17bn. Complaints about the state of the roads have made governments reluctant to arouse the ire of motoring lobby groups by raising fuel excise duty – the tax paid at the pump on fuel. The last chancellor to do so was Alistair Darling 15 years ago. The cumulative cost to the exchequer of the freezes and cuts to fuel duty since 2010 is put at £130bn – a colossal sum given the struggle governments have had to balance the books during that time. Larry Elliott is a Guardian columnist Continue reading..."
+      "title": "Act now to ensure compliance with new rules on ID verification",
+      "link": "https://www.scotsman.com/news/act-now-to-ensure-compliance-with-new-rules-on-id-verification-5271320",
+      "pubDate": "2025-08-14T09:20:02.000Z",
+      "source": "The Scotsman",
+      "summary": "​​Paul McLaughlin says a pivital shift in corporate governance is coming"
     },
     {
       "title": "Council asks public for ideas over £50m shortfall",
@@ -821,20 +842,6 @@
       "summary": "Kent County Council said that \"difficult money-saving decisions will be necessary\"."
     },
     {
-      "title": "Yvette Cooper solves one headache for justice system but may have caused another",
-      "link": "https://www.theguardian.com/politics/2025/aug/13/yvette-cooper-solves-one-headache-for-justice-system-but-may-have-caused-another",
-      "pubDate": "2025-08-13T19:18:58.000Z",
-      "source": "Politics | The Guardian",
-      "summary": "Allowing police to disclose ethnicity and nationality of suspects could have consequences for race relations Plans for UK police to reveal suspects’ ethnicity a recipe for ‘dog-whistle politics’, say campaigners By getting her way and allowing police to consider disclosing the ethnicity and nationality of suspects charged in high-profile cases, Yvette Cooper has solved one enormous headache for the criminal justice system. But she may have caused another, which could have consequences for race relations. The home secretary has encouraged senior police officers to free themselves of longstanding protocols so they can combat the prolific use of social media by far-right bloggers and organisations that have escalated disinformation around high-profile incidents. Continue reading..."
-    },
-    {
-      "title": "Parliament watchdog rejects McMurdock complaint",
-      "link": "https://www.bbc.com/news/articles/cy0qvx5r89ro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-08-13T18:27:31.000Z",
-      "source": "BBC News",
-      "summary": "The former Reform UK MP says the \"malicious attack\" against him has \"failed\"."
-    },
-    {
       "title": "BBC apologises after Jenrick accused of xenophobia",
       "link": "https://www.bbc.com/news/articles/c1dxqwkwx5qo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-13T17:39:57.000Z",
@@ -842,11 +849,25 @@
       "summary": "A contributor to Radio 4's Thought for the Day slot made the remark about the shadow justice secretary."
     },
     {
+      "title": "Why it’s time to treat estate planning clients like they live in 2025",
+      "link": "https://www.scotsman.com/news/opinion/columnists/why-its-time-to-treat-estate-planning-clients-like-they-live-in-2025-5270826",
+      "pubDate": "2025-08-13T16:40:42.000Z",
+      "source": "The Scotsman",
+      "summary": "Scots Law must prepare for the rise of ‘digital executors’, writes Rob Aberdein"
+    },
+    {
       "title": "Trial of Labour MP Tulip Siddiq begins in Bangladesh",
       "link": "https://www.bbc.com/news/articles/cd0d78rn4m4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-08-13T15:03:17.000Z",
       "source": "BBC News",
       "summary": "The ex-minister denies the allegations of corruption against her, relating to a plot of land in Dhaka."
+    },
+    {
+      "title": "How Scotland's affordable homes budget is bankrolled by buyers",
+      "link": "https://www.scotsman.com/business/how-scotlands-affordable-homes-budget-is-bankrolled-by-buyers-5268801",
+      "pubDate": "2025-08-13T13:58:11.000Z",
+      "source": "The Scotsman",
+      "summary": "​David J Alexander says LBTT figures show the private sector is effectively funding a huge chunk of Scottish housing policy"
     },
     {
       "title": "Labour MP hits out at 'farce' anti-corruption trial in Bangladesh",
